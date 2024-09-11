@@ -77,7 +77,14 @@
       "score": "Graduated"
     }
   ],
-  "awards": [],
+  "awards": [
+    {
+      "title": "Top GPA Medal",
+      "date": "2015-01-01",
+      "awarder": "National University of Jujuy (UNJu)",
+      "summary": "Award for achieving the highest GPA in the Informatics Engineering degree."
+    }
+  ],  
   "certificates": [
     {
       "name": "Introduction to Agile Project Management with Azure DevOps",
