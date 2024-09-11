@@ -12,7 +12,7 @@ import Skills from '@/components/sections/Skills.astro';
 ---
 
 <Layout title="Minimalis Portfolio">
-	<main>
+	<main class="w-full p-16 mx-auto md:p-8">
 		<Hero />
 		<About />
 		<Experience />
@@ -23,17 +23,3 @@ import Skills from '@/components/sections/Skills.astro';
 	
 	<KeyboardManager/>
 </Layout>
-
-<style>
-  main {
-    padding: 4rem;
-    margin: auto;
-    width: 100%;
-  }
-
-  @media (width <= 700px) {
-    main {
-      padding: 2rem;
-    }
-  }
-</style>
