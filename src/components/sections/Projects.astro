@@ -1,6 +1,71 @@
 ---
-import Section from "../Section.astro";
----
-<Section title="Projects">
+import GitHub from "@/icons/GitHub.astro"
+import Section from "../Section.astro"
 
+import { projects } from "@cv"
+---
+
+<Section title="Proyectos">
+  <ul class="grid grid-cols-[repeat(auto-fit,_minmax(200px,_1fr))] gap-4 px-4">
+    {
+      projects.map(
+        ({ url, description, highlights, name, isActive, github }) => {
+          return (
+            <li>
+              <article class="flex flex-col p-4 border border-gray-200 rounded-lg gap-4 h-full">
+                <header class="flex-1">
+                  <h3 class="mb-1 text-lg">
+                    <a href={url} target="_blank" class="text-gray-900 hover:underline" title={`Ver el proyecto ${name}`}>
+                      {name}
+                    </a>
+                    {isActive && <span class="text-green-500 animate-flicker">•</span>}
+                    {github && (
+                      <a
+                        class="ml-1 text-gray-900 hover:text-gray-700"
+                        href={github}
+                        target="_blank"
+                        title={`Ver código fuente del proyecto ${name}`}
+                      >
+                        <GitHub />
+                      </a>
+                    )}
+                  </h3>
+                  <p class="text-xs leading-4 mb-1">{description}</p>
+                </header>
+                <footer class="flex flex-wrap gap-1 text-xs">
+                  {highlights.map((highlight) => {
+                    return (
+                      <span class="bg-gray-200 text-gray-700 font-medium px-2 py-1 rounded">
+                        {highlight}
+                      </span>
+                    )
+                  })}
+                </footer>
+              </article>
+            </li>
+          )
+        }
+      )
+    }
+  </ul>
 </Section>
+
+<style>
+  @keyframes flicker {
+    0% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.25;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  @media print {
+    .animate-flicker {
+      animation-name: none;
+    }
+  }
+</style>

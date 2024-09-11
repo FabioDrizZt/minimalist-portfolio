@@ -167,6 +167,8 @@
         "Front-end development with React.",
         "Back-end with Node.js and MongoDB."
       ],
+      "isActive": false,
+      "github": "https://github.com/No-Country/c15-57-ft-react-agregarback",
       "url": "https://github.com/No-Country/c15-57-ft-react-agregarback"
     },
     {
@@ -174,6 +176,12 @@
       "startDate": "2021-01-01",
       "endDate": "2021-12-31",
       "description": "E-wallet mobile application.",
+      "highlights": [
+        "Front-end development with React.",
+        "Back-end with Node.js and MongoDB."
+      ],
+      "isActive": false,
+      "github": "https://github.com/FabioDrizZt/Henry-Bank",
       "url": "https://github.com/FabioDrizZt/Henry-Bank"
     }
   ]
