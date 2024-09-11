@@ -1,173 +1,173 @@
 {
-    "basics": {
-      "name": "Fabio D. Argañaraz",
-      "label": "Full Stack Developer | Computer Science Teacher",
-      "image": "https://avatars.githubusercontent.com/u/12085182?v=4",
-      "email": "ing.fabio.arg@gmail.com",
-      "phone": "(+54) 388 5733 294",
-      "url": "https://github.com/FabioDrizZt",
-      "summary": "Experienced Full Stack Developer with 5 years of web development experience and 8 years of teaching in informatics.",
-      "location": {
-        "address": "Jujuy, Argentina",
-        "postalCode": "4600",
-        "city": "San Salvador de Jujuy",
-        "countryCode": "AR",
-        "region": "Jujuy"
-      },
-      "profiles": [
-        {
-          "network": "LinkedIn",
-          "username": "FabioDrizZt",
-          "url": "https://www.linkedin.com/in/fabiodrizzt"
-        },
-        {
-          "network": "Twitter/X",
-          "username": "fabiodrizzt",
-          "url": "https://twitter.com/fabiodrizzt"
-        },
-        {
-          "network": "Discord",
-          "username": "FabioDrizZt",
-          "url": "https://discordapp.com/users/70293064240861184"
-        }
-      ]
+  "basics": {
+    "name": "Fabio D. Argañaraz",
+    "label": "Full Stack Developer | Computer Science Teacher",
+    "image": "https://avatars.githubusercontent.com/u/12085182?v=4",
+    "email": "ing.fabio.arg@gmail.com",
+    "phone": "(+54) 388 5733 294",
+    "url": "https://github.com/FabioDrizZt",
+    "summary": "Experienced Full Stack Developer with 5 years of web development experience and 8 years of teaching in informatics.",
+    "location": {
+      "address": "",
+      "postalCode": "B1754",
+      "city": "San Justo",
+      "countryCode": "AR",
+      "region": "Buenos Aires"
     },
-    "work": [
+    "profiles": [
       {
-        "name": "Freelance",
-        "position": "Full Stack Web Developer",
-        "url": "https://upwork.com",
-        "startDate": "2022-01-01",
-        "summary": "Developing web applications with front-end and back-end technologies for various clients.",
-        "highlights": [
-          "Worked with React, Node.js, and MongoDB.",
-          "Built internal management apps and animal shelter platforms."
-        ]
+        "network": "LinkedIn",
+        "username": "FabioDrizZt",
+        "url": "https://www.linkedin.com/in/fabiodrizzt"
       },
       {
-        "name": "Zero Q",
-        "position": "Full Stack Web Developer",
-        "url": "https://zeroq.com",
-        "startDate": "2021-05-01",
-        "endDate": "2021-12-31",
-        "summary": "Contributed to web application development with an Agile team.",
-        "highlights": [
-          "Front-end and back-end development using React, Node.js, and MongoDB."
-        ]
-      }
-    ],
-    "volunteer": [],
-    "education": [
-      {
-        "institution": "National University of Jujuy (UNJu)",
-        "url": "https://www.unju.edu.ar/",
-        "area": "Informatics Engineering",
-        "studyType": "Bachelor",
-        "startDate": "2009-01-01",
-        "endDate": "2015-01-01",
-        "score": "Graduated"
+        "network": "Twitter/X",
+        "username": "fabiodrizzt",
+        "url": "https://twitter.com/fabiodrizzt"
       },
       {
-        "institution": "Henry",
-        "url": "https://www.soyhenry.com/",
-        "area": "Full-Stack Web Development",
-        "studyType": "Bootcamp",
-        "startDate": "2020-01-01",
-        "endDate": "2020-12-01",
-        "score": "Graduated"
-      }
-    ],
-    "awards": [],
-    "certificates": [
-      {
-        "name": "Introduction to Agile Project Management with Azure DevOps",
-        "date": "2020-11-01",
-        "issuer": "UCSE"
-      },
-      {
-        "name": "React and Redux",
-        "date": "2020-07-01",
-        "issuer": "Sololearn"
-      }
-    ],
-    "publications": [],
-    "skills": [
-      {
-        "name": "Frontend Development",
-        "level": "Advanced",
-        "keywords": [
-          "HTML",
-          "CSS",
-          "JavaScript",
-          "React",
-          "TypeScript",
-          "Bootstrap",
-          "Tailwind"
-        ]
-      },
-      {
-        "name": "Backend Development",
-        "level": "Advanced",
-        "keywords": [
-          "Node.js",
-          "Express.js",
-          "PHP",
-          "Laravel",
-          "Java",
-          "Spring",
-          "Python"
-        ]
-      },
-      {
-        "name": "Databases",
-        "level": "Advanced",
-        "keywords": [
-          "MongoDB",
-          "MySQL",
-          "PostgreSQL"
-        ]
-      }
-    ],
-    "languages": [
-      {
-        "language": "Spanish",
-        "fluency": "Native speaker"
-      },
-      {
-        "language": "English",
-        "fluency": "Fluent"
-      }
-    ],
-    "interests": [
-      {
-        "name": "Video Games",
-        "keywords": [
-          "Clash Royale",
-          "Counter Strike",
-          "Overwatch",
-          "Baldur's Gate 3"
-        ]
-      }
-    ],
-    "references": [],
-    "projects": [
-      {
-        "name": "Animal Preservation - LATAM",
-        "startDate": "2022-01-01",
-        "endDate": "2022-12-31",
-        "description": "A platform for managing animal shelters.",
-        "highlights": [
-          "Front-end development with React.",
-          "Back-end with Node.js and MongoDB."
-        ],
-        "url": "https://github.com/No-Country/c15-57-ft-react-agregarback"
-      },
-      {
-        "name": "Henry-Bank",
-        "startDate": "2021-01-01",
-        "endDate": "2021-12-31",
-        "description": "E-wallet mobile application.",
-        "url": "https://github.com/FabioDrizZt/Henry-Bank"
+        "network": "Discord",
+        "username": "FabioDrizZt",
+        "url": "https://discordapp.com/users/70293064240861184"
       }
     ]
+  },
+  "work": [
+    {
+      "name": "Freelance",
+      "position": "Full Stack Web Developer",
+      "url": "https://upwork.com",
+      "startDate": "2022-01-01",
+      "summary": "Developing web applications with front-end and back-end technologies for various clients.",
+      "highlights": [
+        "Worked with React, Node.js, and MongoDB.",
+        "Built internal management apps and animal shelter platforms."
+      ]
+    },
+    {
+      "name": "Zero Q",
+      "position": "Full Stack Web Developer",
+      "url": "https://zeroq.com",
+      "startDate": "2021-05-01",
+      "endDate": "2021-12-31",
+      "summary": "Contributed to web application development with an Agile team.",
+      "highlights": [
+        "Front-end and back-end development using React, Node.js, and MongoDB."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "National University of Jujuy (UNJu)",
+      "url": "https://www.unju.edu.ar/",
+      "area": "Informatics Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2009-01-01",
+      "endDate": "2015-01-01",
+      "score": "Graduated"
+    },
+    {
+      "institution": "Henry",
+      "url": "https://www.soyhenry.com/",
+      "area": "Full-Stack Web Development",
+      "studyType": "Bootcamp",
+      "startDate": "2020-01-01",
+      "endDate": "2020-12-01",
+      "score": "Graduated"
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Introduction to Agile Project Management with Azure DevOps",
+      "date": "2020-11-01",
+      "issuer": "UCSE"
+    },
+    {
+      "name": "React and Redux",
+      "date": "2020-07-01",
+      "issuer": "Sololearn"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Frontend Development",
+      "level": "Advanced",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "TypeScript",
+        "Bootstrap",
+        "Tailwind"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Advanced",
+      "keywords": [
+        "Node.js",
+        "Express.js",
+        "PHP",
+        "Laravel",
+        "Java",
+        "Spring",
+        "Python"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Advanced",
+      "keywords": [
+        "MongoDB",
+        "MySQL",
+        "PostgreSQL"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Video Games",
+      "keywords": [
+        "Clash Royale",
+        "Counter Strike",
+        "Overwatch",
+        "Baldur's Gate 3"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "Animal Preservation - LATAM",
+      "startDate": "2022-01-01",
+      "endDate": "2022-12-31",
+      "description": "A platform for managing animal shelters.",
+      "highlights": [
+        "Front-end development with React.",
+        "Back-end with Node.js and MongoDB."
+      ],
+      "url": "https://github.com/No-Country/c15-57-ft-react-agregarback"
+    },
+    {
+      "name": "Henry-Bank",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31",
+      "description": "E-wallet mobile application.",
+      "url": "https://github.com/FabioDrizZt/Henry-Bank"
+    }
+  ]
 }
