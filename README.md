@@ -21,9 +21,9 @@ Based on the design of <a href="https://github.com/BartoszJarocki/cv">Bartosz Ja
 ### 1. Use this [repo](https://github.com/fabiodrizzt/minimalist-portfolio) as a project _template_ for Astro
 
 
-# Inicializa el proyecto
+# Initialize the Project
 ```
-pnpm create astro@latest -- --template fabiodrizzt/minimalist-portfolio-json
+npm create astro@latest -- --template fabiodrizzt/minimalist-portfolio-json
 ```
 
 ### 2. Add your content:
@@ -32,7 +32,7 @@ Edit the `cv.json` file to create your own printable Portfolio/CV.
 
 ```bash
 # Enjoy the result
-pnpm dev
+npm dev
 ```
 
 
