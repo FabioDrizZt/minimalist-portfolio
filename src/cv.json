@@ -1,110 +1,173 @@
 {
     "basics": {
-      "name": "John Doe",
-      "label": "Programmer",
-      "image": "",
-      "email": "john@gmail.com",
-      "phone": "(912) 555-4321",
-      "url": "https://johndoe.com",
-      "summary": "A summary of John Doe…",
+      "name": "Fabio D. Argañaraz",
+      "label": "Full Stack Developer | Computer Science Teacher",
+      "image": "https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/img.png",
+      "email": "ing.fabio.arg@gmail.com",
+      "phone": "(+54) 388 555 4321",
+      "url": "https://github.com/FabioDrizZt",
+      "summary": "Experienced Full Stack Developer with 5 years of web development experience and 8 years of teaching in informatics.",
       "location": {
-        "address": "2712 Broadway St",
-        "postalCode": "CA 94115",
-        "city": "San Francisco",
-        "countryCode": "US",
-        "region": "California"
+        "address": "Jujuy, Argentina",
+        "postalCode": "4600",
+        "city": "San Salvador de Jujuy",
+        "countryCode": "AR",
+        "region": "Jujuy"
       },
-      "profiles": [{
-        "network": "Twitter",
-        "username": "john",
-        "url": "https://twitter.com/john"
-      }]
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "FabioDrizZt",
+          "url": "https://www.linkedin.com/in/fabiodrizzt"
+        },
+        {
+          "network": "Twitter/X",
+          "username": "fabiodrizzt",
+          "url": "https://twitter.com/fabiodrizzt"
+        },
+        {
+          "network": "Discord",
+          "username": "FabioDrizZt",
+          "url": "https://discordapp.com/users/70293064240861184"
+        }
+      ]
     },
-    "work": [{
-      "name": "Company",
-      "position": "President",
-      "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Description…",
-      "highlights": [
-        "Started the company"
-      ]
-    }],
-    "volunteer": [{
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }],
-    "education": [{
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
-    }],
-    "awards": [{
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }],
-    "certificates": [{
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }],
-    "publications": [{
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
-    }],
-    "skills": [{
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
-    }],
-    "languages": [{
-      "language": "English",
-      "fluency": "Native speaker"
-    }],
-    "interests": [{
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }],
-    "references": [{
-      "name": "Jane Doe",
-      "reference": "Reference…"
-    }],
-    "projects": [{
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
-      "highlights": [
-        "Won award at AIHacks 2016"
-      ],
-      "url": "https://project.com/"
-    }]
-  }
+    "work": [
+      {
+        "name": "Freelance",
+        "position": "Full Stack Web Developer",
+        "url": "https://upwork.com",
+        "startDate": "2022-01-01",
+        "summary": "Developing web applications with front-end and back-end technologies for various clients.",
+        "highlights": [
+          "Worked with React, Node.js, and MongoDB.",
+          "Built internal management apps and animal shelter platforms."
+        ]
+      },
+      {
+        "name": "Zero Q",
+        "position": "Full Stack Web Developer",
+        "url": "https://zeroq.com",
+        "startDate": "2021-05-01",
+        "endDate": "2021-12-31",
+        "summary": "Contributed to web application development with an Agile team.",
+        "highlights": [
+          "Front-end and back-end development using React, Node.js, and MongoDB."
+        ]
+      }
+    ],
+    "volunteer": [],
+    "education": [
+      {
+        "institution": "National University of Jujuy (UNJu)",
+        "url": "https://www.unju.edu.ar/",
+        "area": "Informatics Engineering",
+        "studyType": "Bachelor",
+        "startDate": "2009-01-01",
+        "endDate": "2015-01-01",
+        "score": "Graduated"
+      },
+      {
+        "institution": "Henry",
+        "url": "https://www.soyhenry.com/",
+        "area": "Full-Stack Web Development",
+        "studyType": "Bootcamp",
+        "startDate": "2020-01-01",
+        "endDate": "2020-12-01",
+        "score": "Graduated"
+      }
+    ],
+    "awards": [],
+    "certificates": [
+      {
+        "name": "Introduction to Agile Project Management with Azure DevOps",
+        "date": "2020-11-01",
+        "issuer": "UCSE"
+      },
+      {
+        "name": "React and Redux",
+        "date": "2020-07-01",
+        "issuer": "Sololearn"
+      }
+    ],
+    "publications": [],
+    "skills": [
+      {
+        "name": "Frontend Development",
+        "level": "Advanced",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React",
+          "TypeScript",
+          "Bootstrap",
+          "Tailwind"
+        ]
+      },
+      {
+        "name": "Backend Development",
+        "level": "Advanced",
+        "keywords": [
+          "Node.js",
+          "Express.js",
+          "PHP",
+          "Laravel",
+          "Java",
+          "Spring",
+          "Python"
+        ]
+      },
+      {
+        "name": "Databases",
+        "level": "Advanced",
+        "keywords": [
+          "MongoDB",
+          "MySQL",
+          "PostgreSQL"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Spanish",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Fluent"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Video Games",
+        "keywords": [
+          "Clash Royale",
+          "Counter Strike",
+          "Overwatch",
+          "Baldur's Gate 3"
+        ]
+      }
+    ],
+    "references": [],
+    "projects": [
+      {
+        "name": "Animal Preservation - LATAM",
+        "startDate": "2022-01-01",
+        "endDate": "2022-12-31",
+        "description": "A platform for managing animal shelters.",
+        "highlights": [
+          "Front-end development with React.",
+          "Back-end with Node.js and MongoDB."
+        ],
+        "url": "https://github.com/No-Country/c15-57-ft-react-agregarback"
+      },
+      {
+        "name": "Henry-Bank",
+        "startDate": "2021-01-01",
+        "endDate": "2021-12-31",
+        "description": "E-wallet mobile application.",
+        "url": "https://github.com/FabioDrizZt/Henry-Bank"
+      }
+    ]
+}
