@@ -1,9 +1,21 @@
 ---
 import { basics } from "@cv"
-import Section from "../Section.astro"
+import Section from "@/components/Section.astro"
+import Mail from "@/icons/Mail.astro"
+import Phone from "@/icons/Phone.astro"
+import X from "@/icons/X.astro"
+import LinkedIn from "@/icons/LinkedIn.astro"
+import GitHub from "@/icons/GitHub.astro"
+import WorldMap from "@/icons/WorldMap.astro"
 
 const { name, label, image, location, profiles, phone, email } = basics
 const { city, region } = location
+
+const SOCIAL_ICONS: Record<string, string | any> = {
+  GitHub,
+  LinkedIn,
+  X,
+}
 
 const linkedInfo = profiles.find(({ network }) => network === "LinkedIn")
 const linkedUrl = linkedInfo?.url
@@ -12,138 +24,58 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
 ---
 
 <Section>
-  <div class="container">
-    <div class="info">
-      <h1>{name}</h1>
-      <h2>{label}</h2>
-      <span>
-        <!-- <WorldMap /> -->
+  <div class="flex flex-row items-center justify-between gap-4 md:flex-col-reverse">
+    <div class="flex flex-col gap-2 pr-8 md:pr-0 md:items-center md:text-center">
+      <h1 class="text-2xl">{name}</h1>
+      <h2 class="text-gray-700 font-medium text-[1.1rem]">{label}</h2>
+      <span class="text-gray-600 flex items-center gap-1 text-[0.85rem] tracking-tight">
+        <WorldMap />
         {city}, {region}
       </span>
-      <footer class="no-print">
-        {
-          email && (
+      <footer class="hidden print:block text-gray-600 text-[0.65rem] flex gap-1 mt-2">
+        {printInfo}
+      </footer>
+      <footer class="block print:hidden text-gray-600 text-[0.65rem] flex gap-1 mt-2">
+        {email && (
+          <a
+            href={`mailto:${email}`}
+            title={`Enviar un correo electrónico a ${name} al correo ${email}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-gray-500 inline-flex items-center justify-center border border-gray-200 p-1 h-8 w-8 rounded-md transition-all hover:bg-gray-200 hover:border-gray-300"
+          >
+            <Mail />
+          </a>
+        )}
+        {phone && (
+          <a
+            href={`tel:${phone}`}
+            title={`Llamar por teléfono a ${name} al número ${phone}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-gray-500 inline-flex items-center justify-center border border-gray-200 p-1 h-8 w-8 rounded-md transition-all hover:bg-gray-200 hover:border-gray-300"
+          >
+            <Phone />
+          </a>
+        )}
+        {profiles.map(({ network, url, username }) => {
+          const Icon = SOCIAL_ICONS[network]
+          return (
             <a
-              href={`mailto:${email}`}
-              title={`Enviar un correo electrónico a ${name} al correo ${email}`}
+              href={url}
+              title={`Visitar el perfil de ${name} en ${network}`}
               target="_blank"
               rel="noopener noreferrer"
+              class="text-gray-500 inline-flex items-center justify-center border border-gray-200 p-1 h-8 w-8 rounded-md transition-all hover:bg-gray-200 hover:border-gray-300"
             >
+              <Icon />
             </a>
           )
-        }
-        {
-          phone && (
-            <a
-              href={`tel:${phone}`}
-              title={`Llamar por teléfono a ${name} al número ${phone}`}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-            </a>
-          )
-        }
+        })}
       </footer>
     </div>
-    <figure>
-      <img src={image} alt={name} />
+    <figure class="flex justify-center items-center m-auto">
+      <img src={image} alt={name} class="aspect-square object-cover w-32 rounded-lg" />
     </figure>
   </div>
 </Section>
-
-<style>
-  .container {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-    gap: 1rem;
-  }
-
-  .info {
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
-    padding-right: 32px;
-  }
-
-  h1 {
-    font-size: 2rem;
-  }
-
-  h2 {
-    color: #444;
-    font-weight: 500;
-    font-size: 1.1rem;
-    text-wrap: balance;
-  }
-
-  img {
-    aspect-ratio: 1 / 1;
-    object-fit: cover;
-    width: 128px;
-    border-radius: 16px;
-  }
-
-  span {
-    color: #666;
-    display: flex;
-    align-items: center;
-    gap: 0.25rem;
-    font-size: 0.85rem;
-    letter-spacing: -0.05rem;
-  }
-
-  footer {
-    color: #555;
-    font-size: 0.65rem;
-    display: flex;
-    gap: 4px;
-    margin-top: 8px;
-  }
-
-  footer a {
-    color: #777;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    border: 1px solid #eee;
-    padding: 4px;
-    height: 32px;
-    width: 32px;
-    border-radius: 6px;
-    transition: all 0.3s ease;
-  }
-
-  footer a:hover {
-    background: #eee;
-    border: 1px solid #ddd;
-  }
-
-  @media (width <= 700px) {
-    .container {
-      flex-direction: column-reverse;
-    }
-
-    .info {
-      justify-content: center;
-      align-items: center;
-      padding-right: 0;
-      text-align: center;
-    }
-
-    figure {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
-
-    h2 {
-      text-wrap: balance;
-    }
-
-    figure {
-      margin: 0 auto;
-    }
-  }
-</style>
