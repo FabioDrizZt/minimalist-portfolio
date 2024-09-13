@@ -14,14 +14,14 @@ import { projects } from "@cv"
             <li>
               <article class="flex flex-col p-4 border border-gray-200 rounded-lg gap-4 h-full">
                 <header class="flex-1">
-                  <h3 class="mb-1 text-lg">
+                  <h3 class="mb-1 text-lg flex items-center space-x-1">
                     <a href={url} target="_blank" class="text-gray-900 hover:underline" title={`Ver el proyecto ${name}`}>
                       {name}
                     </a>
-                    {isActive && <span class="text-green-500 animate-flicker">•</span>}
+                    <span class={`animate-flicker ${isActive ? 'text-green-500' : 'text-red-500'}`}>•</span>
                     {github && (
                       <a
-                        class="ml-1 text-gray-900 hover:text-gray-700"
+                        class="text-gray-900 hover:text-gray-700"
                         href={github}
                         target="_blank"
                         title={`Ver código fuente del proyecto ${name}`}
