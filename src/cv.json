@@ -31,41 +31,49 @@
         "url": "https://github.com/fabiodrizzt"
       }
     ]
-  },  "work": [
+  },  
+  "work": [
     {
       "name": "ADA School",
       "position": "Professor - Full Stack Development",
       "url": "https://ada-school.org/",
       "startDate": "2024-02-01",
       "endDate": null,
-      "summary": "Teaching full-stack development to students in a remote learning environment.",
+      "summary": "Teaching full-stack development with a focus on Java, Spring Boot, H2, MongoDB, and PostgreSQL to students in a remote learning environment.",
       "highlights": [
         "Remote teaching for Full Stack Development.",
+        "Instruction on Java, Spring Boot, H2, MongoDB, and PostgreSQL technologies.",
         "Use of modern tools and technologies in full-stack education."
       ]
-    },
+    }
+    ,
     {
       "name": "Universidad Nacional de Tres de Febrero",
       "position": "Professor - Full Stack Web Development",
       "url": "https://untref.edu.ar/",
       "startDate": "2023-05-01",
       "endDate": null,
-      "summary": "Creation of didactic material and practical exercises, evaluation and monitoring of student progress.",
+      "summary": "Creation of didactic material and practical exercises, evaluation and monitoring of student progress in modern web technologies.",
       "highlights": [
-        "Developed course materials on HTML, CSS, JavaScript, React, NodeJS, Express, SQL, MySQL, and MongoDB."
+        "Developed course materials and practical exercises on HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, SQL, MySQL, and JWT.",
+        "Provided comprehensive instruction on building and securing web applications using modern technologies."
       ]
-    },
+    }
+    ,
     {
       "name": "DigitalMind",
       "position": "Professor - Full Stack Web Development",
       "url": "https://www.soydigitalmind.com/",
       "startDate": "2022-05-01",
       "endDate": "2024-09-01",
-      "summary": "Creation of didactic material and practical exercises, monitoring students' progress.",
+      "summary": "Creation of didactic material and practical exercises, monitoring students' progress in frontend and backend web development.",
       "highlights": [
-        "Taught git, PHP, MySQL, Laravel, HTML, CSS, JS, React, Jest, and RTL."
+        "Developed course materials and practical exercises on React for frontend development.",
+        "Taught backend development using PHP, Laravel, and version control systems.",
+        "Provided comprehensive instruction on integrating frontend and backend technologies to build robust web applications."
       ]
-    },
+    }
+    ,
     {
       "name": "Ledesma",
       "position": "Professor - Introduction to Computer Science as a Management Tool",
@@ -74,42 +82,58 @@
       "endDate": "2024-07-01",
       "summary": "Part of the Ledesma Innovation and Technology Program in collaboration with the National University of Jujuy.",
       "highlights": [
-        "Taught Introduction to Computer Science and various practical modules to increase employability."
+        "User Interfaces: Ways we can interact with our devices.",
+        "Version Control: How teams collaborate and manage code in software development.",
+        "Hardware: What are the physical components of a computer.",
+        "Networks: How devices communicate with the hardware of our systems."
       ]
     },
     {
       "name": "Universidad Católica de Santiago del Estero",
-      "position": "Professor - Web Programming, Models and Simulation, Computer Science, Fundamentals of AI",
+      "position": "Professor - Full Stack Web Programming MERN, Models and Simulation, Computer Science, Fundamentals of AI",
       "url": "https://www.ucse.edu.ar/",
       "startDate": "2017-09-01",
       "endDate": "2024-07-01",
       "summary": "Head Professor of Practical Works in Models and Simulation for the Computer Engineering program.",
       "highlights": [
-        "Taught multiple courses including Web Programming and Fundamentals of AI."
+          "Led the development and implementation of the Full Stack Web Programming curriculum using the MERN stack.",
+          "Supervised and guided students in building practical applications based on MERN stack principles.",
+          "Designed and delivered AI-based course material for the Computer Science program.",
+          "Facilitated simulation-based learning in the Models and Simulation course, allowing students to solve real-world engineering problems.",
+          "Mentored students in the Fundamentals of AI, introducing them to machine learning algorithms and neural networks."
       ]
-    },
-    {
-      "name": "Next U",
-      "position": "Professor - Full Stack Development",
-      "url": "https://www.linkedin.com/company/next-u-open-education",
-      "startDate": "2022-05-01",
-      "endDate": "2024-05-01",
-      "summary": "Seasonal professor in Full Stack Development.",
-      "highlights": [
-        "Focused on Back-End Web Development using Java, Spring Boot, and PHP."
-      ]
-    },
-    {
-      "name": "Freelance",
-      "position": "Full Stack Web Developer",
-      "url": "https://www.upwork.com/",
-      "startDate": "2022-01-01",
-      "endDate": "2023-10-01",
-      "summary": "Completed multiple freelance projects on platforms such as Upwork, Fiverr, and PeoplePerHour.",
-      "highlights": [
-        "Developed web applications using React, Redux, Node.js, Express, and MongoDB."
-      ]
-    },
+  }
+  ,
+  {
+    "name": "Next U",
+    "position": "Professor - Full Stack Development",
+    "url": "https://www.linkedin.com/company/next-u-open-education",
+    "startDate": "2022-05-01",
+    "endDate": "2024-05-01",
+    "summary": "Seasonal professor in Full Stack Development.",
+    "highlights": [
+        "Taught Full Stack web development with a focus on Java, Spring Boot, and React.",
+        "Guided students in building RESTful APIs using Spring Boot, with integrations to PostgreSQL and MySQL databases.",
+        "Led students in developing dynamic frontend applications using React, focusing on component-based architecture and state management.",
+        "Developed hands-on projects where students built full-stack applications, integrating React on the frontend and Spring Boot on the backend."
+    ]
+  }
+  ,
+  {
+    "name": "Freelance",
+    "position": "Full Stack Web Developer",
+    "url": "https://www.upwork.com/",
+    "startDate": "2022-01-01",
+    "endDate": "2023-10-01",
+    "summary": "Completed multiple freelance projects on platforms such as Upwork, Fiverr, and PeoplePerHour.",
+    "highlights": [
+        "Developed an Internal Management App for personnel shift control, integrating user validation and MongoDB for database management, with a React-based front-end and unit testing using Jest.",
+        "Collaborated on a Handmade Products Start-up, handling requirement analysis, front-end development with React and Typescript, and back-end development using Node.js for inventory management.",
+        "Built an Internal Control App for shift and server management, featuring real-time queries and error monitoring, with a React and Typescript front-end, and Node.js and MongoDB back-end.",
+        "Contributed to the development of an Animal Shelters App, creating the front-end using React, Redux, and Typescript, and designing the back-end with PostgreSQL for database management."
+    ]
+  }
+  ,
     {
       "name": "Digital House",
       "position": "Professor - Certified Tech Developer",
@@ -155,7 +179,6 @@
       ]
     }
   ],
-  "volunteer": [],
   "education": [
     {
       "institution": "National University of Jujuy (UNJu)",
@@ -196,8 +219,82 @@
       "issuer": "Sololearn"
     }
   ],
-  "publications": [],
-  
+  "interests": [
+    {
+      "name": "Video Games",
+      "keywords": [
+        "Clash Royale",
+        "Counter Strike",
+        "Overwatch",
+        "Baldur's Gate 3"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Semiyuda",
+      "startDate": "2024-01-01",
+      "endDate": "2024-12-31",
+      "description": "A platform for users to donate and receive food, and manage seed planting for home gardening.",
+      "highlights": [
+        "User registration with email or phone number, including account verification and KYC.",
+        "Seed kit request with delivery address and order tracking.",
+        "Food donation functionality with quantity indication and photo upload, plus a reward system for donations.",
+        "Food request and receipt for users in need with eligibility verification.",
+        "Instant messaging for communication between users and organizations.",
+        "Geolocation and mapping integration for efficient food delivery and tracking.",
+        "Reports and statistics on app performance and impact."
+      ],
+      "isActive": true,
+      "github": "https://github.com/your-repo/semiyuda",
+      "url": "https://semiyuda.example.com/"
+    }
+    ,
+  {
+    "name": "Preservation Animal",
+    "startDate": "2023-01-01",
+    "endDate": "2023-12-31",
+    "description": "Wildlife Preservation Platform in Latin America.",
+    "highlights": [
+      "Developed a comprehensive platform for biodiversity conservation in Latin America.",
+      "Implemented an e-commerce system for selling exclusive merchandise, with contributions directly supporting conservation projects.",
+      "Developed features for direct donations and volunteering opportunities.",
+      "Created a user portal for managing products, tracking transactions, and receiving notifications.",
+      "Utilized advanced technologies such as React, Vite, TailwindCSS, and Formik for a smooth and modern user experience."
+    ],
+    "isActive": false,
+    "github": "https://github.com/No-Country/c15-57-ft-react-agregarback",
+    "url": "https://c15-57-ft-react-agregarback.vercel.app/"
+  }
+  ,
+    {
+      "name": "Henry-Bank",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31",
+      "description": "E-wallet mobile application.",
+      "highlights": [
+        "Developed a scalable backend using Node.js and microservices architecture.",
+        "Integrated with third-party APIs for payment processing and user authentication.",
+        "Built a responsive mobile front-end with React Native, ensuring cross-platform compatibility.",
+        "Optimized database queries, reducing load times by 30%.",
+        "Implemented secure transaction protocols and JWT-based user authentication.",
+        "Collaborated with a team of 4 developers using Agile methodologies."
+      ],
+      "isActive": false,
+      "github": "https://github.com/FabioDrizZt/Henry-Bank",
+      "url": "https://www.youtube.com/watch?v=t1KtkQB5uQ8"
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
@@ -438,85 +535,6 @@
       "level": "Learning",
       "keywords": ["Web development", "Frontend", "React Framework", "SSR"],
       "category": "Currently Learning"
-    }
-  ]
-  
-  ,
-  "languages": [
-    {
-      "language": "Spanish",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Video Games",
-      "keywords": [
-        "Clash Royale",
-        "Counter Strike",
-        "Overwatch",
-        "Baldur's Gate 3"
-      ]
-    }
-  ],
-  "references": [],
-  "projects": [
-    {
-      "name": "Semiyuda",
-      "startDate": "2024-01-01",
-      "endDate": "2024-12-31",
-      "description": "A platform for users to donate and receive food, and manage seed planting for home gardening.",
-      "highlights": [
-        "User registration with email or phone number, including account verification and KYC.",
-        "Seed kit request with delivery address and order tracking.",
-        "Food donation functionality with quantity indication and photo upload, plus a reward system for donations.",
-        "Food request and receipt for users in need with eligibility verification.",
-        "Instant messaging for communication between users and organizations.",
-        "Geolocation and mapping integration for efficient food delivery and tracking.",
-        "Reports and statistics on app performance and impact."
-      ],
-      "isActive": true,
-      "github": "https://github.com/your-repo/semiyuda",
-      "url": "https://semiyuda.example.com/"
-    }
-    ,
-  {
-    "name": "Preservation Animal",
-    "startDate": "2023-01-01",
-    "endDate": "2023-12-31",
-    "description": "Wildlife Preservation Platform in Latin America.",
-    "highlights": [
-      "Developed a comprehensive platform for biodiversity conservation in Latin America.",
-      "Implemented an e-commerce system for selling exclusive merchandise, with contributions directly supporting conservation projects.",
-      "Developed features for direct donations and volunteering opportunities.",
-      "Created a user portal for managing products, tracking transactions, and receiving notifications.",
-      "Utilized advanced technologies such as React, Vite, TailwindCSS, and Formik for a smooth and modern user experience."
-    ],
-    "isActive": false,
-    "github": "https://github.com/No-Country/c15-57-ft-react-agregarback",
-    "url": "https://c15-57-ft-react-agregarback.vercel.app/"
-  }
-  ,
-    {
-      "name": "Henry-Bank",
-      "startDate": "2021-01-01",
-      "endDate": "2021-12-31",
-      "description": "E-wallet mobile application.",
-      "highlights": [
-        "Developed a scalable backend using Node.js and microservices architecture.",
-        "Integrated with third-party APIs for payment processing and user authentication.",
-        "Built a responsive mobile front-end with React Native, ensuring cross-platform compatibility.",
-        "Optimized database queries, reducing load times by 30%.",
-        "Implemented secure transaction protocols and JWT-based user authentication.",
-        "Collaborated with a team of 4 developers using Agile methodologies."
-      ],
-      "isActive": false,
-      "github": "https://github.com/FabioDrizZt/Henry-Bank",
-      "url": "https://www.youtube.com/watch?v=t1KtkQB5uQ8"
     }
   ]
 }
