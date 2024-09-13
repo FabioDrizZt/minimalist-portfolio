@@ -159,7 +159,7 @@
   "education": [
     {
       "institution": "National University of Jujuy (UNJu)",
-      "url": "https://www.unju.edu.ar/",
+      "url": "https://www.fi.unju.edu.ar/",
       "area": "Informatics Engineering",
       "studyType": "Bachelor",
       "startDate": "2009-01-01",
@@ -467,42 +467,56 @@
   "projects": [
     {
       "name": "Semiyuda",
-      "startDate": "2024-01-03",
-      "endDate": "2022-12-31",
-      "description": "A platform for managing animal shelters.",
+      "startDate": "2024-01-01",
+      "endDate": "2024-12-31",
+      "description": "A platform for users to donate and receive food, and manage seed planting for home gardening.",
       "highlights": [
-        "Front-end development with React.",
-        "Back-end with Node.js and MongoDB."
+        "User registration with email or phone number, including account verification and KYC.",
+        "Seed kit request with delivery address and order tracking.",
+        "Food donation functionality with quantity indication and photo upload, plus a reward system for donations.",
+        "Food request and receipt for users in need with eligibility verification.",
+        "Instant messaging for communication between users and organizations.",
+        "Geolocation and mapping integration for efficient food delivery and tracking.",
+        "Reports and statistics on app performance and impact."
       ],
       "isActive": true,
-      "github": "https://github.com/MarianoAMB/Semiyuda",
-      "url": "https://github.com/MarianoAMB/Semiyuda"
-    },
-    {
-      "name": "Animal Preservation - LATAM",
-      "startDate": "2023-01-01",
-      "endDate": "2023-12-31",
-      "description": "A platform for managing animal shelters.",
-      "highlights": [
-        "Front-end development with React.",
-        "Back-end with Node.js and MongoDB."
-      ],
-      "isActive": true,
-      "github": "https://github.com/No-Country/c15-57-ft-react-agregarback",
-      "url": "https://github.com/No-Country/c15-57-ft-react-agregarback"
-    },
+      "github": "https://github.com/your-repo/semiyuda",
+      "url": "https://semiyuda.example.com/"
+    }
+    ,
+  {
+    "name": "Preservation Animal",
+    "startDate": "2023-01-01",
+    "endDate": "2023-12-31",
+    "description": "Wildlife Preservation Platform in Latin America.",
+    "highlights": [
+      "Developed a comprehensive platform for biodiversity conservation in Latin America.",
+      "Implemented an e-commerce system for selling exclusive merchandise, with contributions directly supporting conservation projects.",
+      "Developed features for direct donations and volunteering opportunities.",
+      "Created a user portal for managing products, tracking transactions, and receiving notifications.",
+      "Utilized advanced technologies such as React, Vite, TailwindCSS, and Formik for a smooth and modern user experience."
+    ],
+    "isActive": false,
+    "github": "https://github.com/No-Country/c15-57-ft-react-agregarback",
+    "url": "https://c15-57-ft-react-agregarback.vercel.app/"
+  }
+  ,
     {
       "name": "Henry-Bank",
       "startDate": "2021-01-01",
       "endDate": "2021-12-31",
       "description": "E-wallet mobile application.",
       "highlights": [
-        "Front-end development with React.",
-        "Back-end with Node.js and MongoDB."
+        "Developed a scalable backend using Node.js and microservices architecture.",
+        "Integrated with third-party APIs for payment processing and user authentication.",
+        "Built a responsive mobile front-end with React Native, ensuring cross-platform compatibility.",
+        "Optimized database queries, reducing load times by 30%.",
+        "Implemented secure transaction protocols and JWT-based user authentication.",
+        "Collaborated with a team of 4 developers using Agile methodologies."
       ],
       "isActive": false,
       "github": "https://github.com/FabioDrizZt/Henry-Bank",
-      "url": "https://github.com/FabioDrizZt/Henry-Bank"
+      "url": "https://www.youtube.com/watch?v=t1KtkQB5uQ8"
     }
   ]
 }
