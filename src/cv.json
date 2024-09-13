@@ -31,28 +31,127 @@
         "url": "https://github.com/fabiodrizzt"
       }
     ]
-  },
-  "work": [
+  },  "work": [
     {
-      "name": "Freelance",
-      "position": "Full Stack Web Developer",
-      "url": "https://upwork.com",
-      "startDate": "2022-01-01",
-      "summary": "Developing web applications with front-end and back-end technologies for various clients.",
+      "name": "ADA School",
+      "position": "Professor - Full Stack Development",
+      "url": "https://ada-school.org/",
+      "startDate": "2024-02-01",
+      "endDate": null,
+      "summary": "Teaching full-stack development to students in a remote learning environment.",
       "highlights": [
-        "Worked with React, Node.js, and MongoDB.",
-        "Built internal management apps and animal shelter platforms."
+        "Remote teaching for Full Stack Development.",
+        "Use of modern tools and technologies in full-stack education."
       ]
     },
     {
-      "name": "Zero Q",
-      "position": "Full Stack Web Developer",
-      "url": "https://zeroq.com",
-      "startDate": "2021-05-01",
-      "endDate": "2021-12-31",
-      "summary": "Contributed to web application development with an Agile team.",
+      "name": "Universidad Nacional de Tres de Febrero",
+      "position": "Professor - Full Stack Web Development",
+      "url": "https://untref.edu.ar/",
+      "startDate": "2023-05-01",
+      "endDate": null,
+      "summary": "Creation of didactic material and practical exercises, evaluation and monitoring of student progress.",
       "highlights": [
-        "Front-end and back-end development using React, Node.js, and MongoDB."
+        "Developed course materials on HTML, CSS, JavaScript, React, NodeJS, Express, SQL, MySQL, and MongoDB."
+      ]
+    },
+    {
+      "name": "DigitalMind",
+      "position": "Professor - Full Stack Web Development",
+      "url": "https://www.soydigitalmind.com/",
+      "startDate": "2022-05-01",
+      "endDate": "2024-09-01",
+      "summary": "Creation of didactic material and practical exercises, monitoring students' progress.",
+      "highlights": [
+        "Taught git, PHP, MySQL, Laravel, HTML, CSS, JS, React, Jest, and RTL."
+      ]
+    },
+    {
+      "name": "Ledesma",
+      "position": "Professor - Introduction to Computer Science as a Management Tool",
+      "url": "https://www.ledesma.com.ar/",
+      "startDate": "2021-05-01",
+      "endDate": "2024-07-01",
+      "summary": "Part of the Ledesma Innovation and Technology Program in collaboration with the National University of Jujuy.",
+      "highlights": [
+        "Taught Introduction to Computer Science and various practical modules to increase employability."
+      ]
+    },
+    {
+      "name": "Universidad Católica de Santiago del Estero",
+      "position": "Professor - Web Programming, Models and Simulation, Computer Science, Fundamentals of AI",
+      "url": "https://www.ucse.edu.ar/",
+      "startDate": "2017-09-01",
+      "endDate": "2024-07-01",
+      "summary": "Head Professor of Practical Works in Models and Simulation for the Computer Engineering program.",
+      "highlights": [
+        "Taught multiple courses including Web Programming and Fundamentals of AI."
+      ]
+    },
+    {
+      "name": "Next U",
+      "position": "Professor - Full Stack Development",
+      "url": "https://www.linkedin.com/company/next-u-open-education",
+      "startDate": "2022-05-01",
+      "endDate": "2024-05-01",
+      "summary": "Seasonal professor in Full Stack Development.",
+      "highlights": [
+        "Focused on Back-End Web Development using Java, Spring Boot, and PHP."
+      ]
+    },
+    {
+      "name": "Freelance",
+      "position": "Full Stack Web Developer",
+      "url": "https://www.upwork.com/",
+      "startDate": "2022-01-01",
+      "endDate": "2023-10-01",
+      "summary": "Completed multiple freelance projects on platforms such as Upwork, Fiverr, and PeoplePerHour.",
+      "highlights": [
+        "Developed web applications using React, Redux, Node.js, Express, and MongoDB."
+      ]
+    },
+    {
+      "name": "Digital House",
+      "position": "Professor - Certified Tech Developer",
+      "url": "https://www.digitalhouse.com/ar/",
+      "startDate": "2021-01-01",
+      "endDate": "2021-04-01",
+      "summary": "Professor for the Certified Tech Developer program in collaboration with Mercado Libre and Globant.",
+      "highlights": [
+        "Taught fundamental soft and technical skills for disruptive companies."
+      ]
+    },
+    {
+      "name": "Faculty of Engineering - UNJu",
+      "position": "Professor - Introduction to Computer Science, Database I, Database II, Programming Methodology",
+      "url": "https://www.fi.unju.edu.ar/",
+      "startDate": "2016-05-01",
+      "endDate": "2019-12-01",
+      "summary": "Professor of various subjects for the Computer Engineering program at the National University of Jujuy.",
+      "highlights": [
+        "Courses focused on programming methodologies and databases."
+      ]
+    },
+    {
+      "name": "UNICEF Argentina",
+      "position": "Technological Referent",
+      "url": "https://www.unicef.org/argentina/",
+      "startDate": "2018-05-01",
+      "endDate": "2018-12-01",
+      "summary": "Technological Referent for the Ministry of Education of Jujuy, in collaboration with UNICEF for rural secondary schools.",
+      "highlights": [
+        "Coordinated technical teams, maintained networks, and provided training for students and teachers."
+      ]
+    },
+    {
+      "name": "Plan 111 Mil",
+      "position": "Instructor",
+      "url": "https://www.argentina.gob.ar/noticias/nuevos-cursos-del-plan-111-mil",
+      "startDate": "2017-09-01",
+      "endDate": "2018-12-01",
+      "summary": "Instructor for modules on programming techniques, object-oriented programming, databases, and software development.",
+      "highlights": [
+        "Taught programming with Java, MySQL, and PseInt."
       ]
     }
   ],
