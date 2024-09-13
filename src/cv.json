@@ -98,43 +98,251 @@
     }
   ],
   "publications": [],
+  
   "skills": [
     {
-      "name": "Frontend Development",
-      "level": "Advanced",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React",
-        "TypeScript",
-        "Bootstrap",
-        "Tailwind"
-      ]
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Web development", "Frontend", "Markup Language"],
+      "category": "Frontend Development"
     },
     {
-      "name": "Backend Development",
-      "level": "Advanced",
-      "keywords": [
-        "Node.js",
-        "Express.js",
-        "PHP",
-        "Laravel",
-        "Java",
-        "Spring",
-        "Python"
-      ]
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Web development", "Frontend", "Design", "Styling"],
+      "category": "Frontend Development"
     },
     {
-      "name": "Databases",
+      "name": "Sass",
       "level": "Advanced",
-      "keywords": [
-        "MongoDB",
-        "MySQL",
-        "PostgreSQL"
-      ]
+      "keywords": ["Web development", "Frontend", "CSS Preprocessor"],
+      "category": "Frontend Development"
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Web development", "Frontend", "Backend", "Fullstack"],
+      "category": "Frontend Development"
+    },
+    {
+      "name": "TypeScript",
+      "level": "Advanced",
+      "keywords": ["Web development", "Frontend", "JavaScript Superset", "Static Typing"],
+      "category": "Frontend Development"
+    },
+    {
+      "name": "React",
+      "level": "Advanced",
+      "keywords": ["Web development", "Frontend", "JavaScript Library", "UI"],
+      "category": "Frontend Development"
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Advanced",
+      "keywords": ["Web development", "Frontend", "CSS Framework", "Responsive Design"],
+      "category": "Frontend Development"
+    },
+    {
+      "name": "Tailwind",
+      "level": "Advanced",
+      "keywords": ["Web development", "Frontend", "CSS Framework", "Utility-first"],
+      "category": "Frontend Development"
+    },
+    {
+      "name": "Styled Components",
+      "level": "Advanced",
+      "keywords": ["Web development", "Frontend", "CSS-in-JS", "Design"],
+      "category": "Frontend Development"
+    },
+    {
+      "name": "Figma",
+      "level": "Intermediate",
+      "keywords": ["Design", "Prototyping", "UI/UX"],
+      "category": "Frontend Development"
+    },
+    {
+      "name": "Git",
+      "level": "Advanced",
+      "keywords": ["Version control", "Collaboration", "Source code"],
+      "category": "Version Control"
+    },
+    {
+      "name": "GitHub",
+      "level": "Advanced",
+      "keywords": ["Version control", "Collaboration", "Repository", "Git"],
+      "category": "Version Control"
+    },
+    {
+      "name": "GitLab",
+      "level": "Intermediate",
+      "keywords": ["Version control", "CI/CD", "Repository"],
+      "category": "Version Control"
+    },
+    {
+      "name": "Node.js",
+      "level": "Advanced",
+      "keywords": ["Web development", "Backend", "JavaScript", "Server"],
+      "category": "Backend Development"
+    },
+    {
+      "name": "Express",
+      "level": "Advanced",
+      "keywords": ["Web development", "Backend", "JavaScript", "Server Framework"],
+      "category": "Backend Development"
+    },
+    {
+      "name": "PHP",
+      "level": "Advanced",
+      "keywords": ["Web development", "Backend", "Server-side", "Scripting Language"],
+      "category": "Backend Development"
+    },
+    {
+      "name": "Laravel",
+      "level": "Advanced",
+      "keywords": ["Web development", "Backend", "PHP Framework", "MVC"],
+      "category": "Backend Development"
+    },
+    {
+      "name": "Java",
+      "level": "Master",
+      "keywords": ["Backend", "OOP", "Enterprise Applications", "Spring"],
+      "category": "Backend Development"
+    },
+    {
+      "name": "Spring",
+      "level": "Advanced",
+      "keywords": ["Web development", "Backend", "Java Framework", "Microservices"],
+      "category": "Backend Development"
+    },
+    {
+      "name": "Hibernate",
+      "level": "Advanced",
+      "keywords": ["ORM", "Backend", "Java", "Database"],
+      "category": "Backend Development"
+    },
+    {
+      "name": "Python",
+      "level": "Advanced",
+      "keywords": ["Scripting", "Backend", "Machine Learning", "Automation"],
+      "category": "Backend Development"
+    },
+    {
+      "name": "Jest",
+      "level": "Advanced",
+      "keywords": ["Testing", "JavaScript", "Unit Testing", "Frontend"],
+      "category": "Testing"
+    },
+    {
+      "name": "Vitest",
+      "level": "Intermediate",
+      "keywords": ["Testing", "JavaScript", "Unit Testing", "Frontend"],
+      "category": "Testing"
+    },
+    {
+      "name": "MongoDB",
+      "level": "Advanced",
+      "keywords": ["NoSQL", "Database", "Backend", "Web development"],
+      "category": "Databases"
+    },
+    {
+      "name": "MySQL",
+      "level": "Advanced",
+      "keywords": ["SQL", "Database", "Relational Database", "Backend"],
+      "category": "Databases"
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Advanced",
+      "keywords": ["SQL", "Database", "Relational Database", "Backend"],
+      "category": "Databases"
+    },
+    {
+      "name": "Sequelize",
+      "level": "Advanced",
+      "keywords": ["ORM", "SQL", "Database", "Node.js"],
+      "category": "Databases"
+    },
+    {
+      "name": "Docker",
+      "level": "Advanced",
+      "keywords": ["DevOps", "Containers", "CI/CD", "Infrastructure"],
+      "category": "DevOps and Infrastructure"
+    },
+    {
+      "name": "Bash",
+      "level": "Intermediate",
+      "keywords": ["Scripting", "Automation", "Command-line"],
+      "category": "DevOps and Infrastructure"
+    },
+    {
+      "name": "Netlify",
+      "level": "Intermediate",
+      "keywords": ["Deployment", "CI/CD", "Web Hosting", "Frontend"],
+      "category": "DevOps and Infrastructure"
+    },
+    {
+      "name": "Vercel",
+      "level": "Intermediate",
+      "keywords": ["Deployment", "CI/CD", "Web Hosting", "Frontend"],
+      "category": "DevOps and Infrastructure"
+    },
+    {
+      "name": "VSCode",
+      "level": "Advanced",
+      "keywords": ["IDE", "Development", "Extensions", "JavaScript"],
+      "category": "Development Tools"
+    },
+    {
+      "name": "IntelliJ IDEA",
+      "level": "Advanced",
+      "keywords": ["IDE", "Java Development", "Fullstack"],
+      "category": "Development Tools"
+    },
+    {
+      "name": "Maven",
+      "level": "Advanced",
+      "keywords": ["Build Tool", "Java", "Dependency Management", "Backend"],
+      "category": "Development Tools"
+    },
+    {
+      "name": "Postman",
+      "level": "Advanced",
+      "keywords": ["API", "Testing", "Backend", "Development"],
+      "category": "Development Tools"
+    },
+    {
+      "name": "Vite",
+      "level": "Advanced",
+      "keywords": ["Frontend", "Build Tool", "JavaScript", "Fast Development"],
+      "category": "Development Tools"
+    },
+    {
+      "name": "Bun",
+      "level": "Intermediate",
+      "keywords": ["JavaScript", "Runtime", "Server", "Node.js Alternative"],
+      "category": "Development Tools"
+    },
+    {
+      "name": "Markdown",
+      "level": "Advanced",
+      "keywords": ["Documentation", "Scripting", "Text Formatting"],
+      "category": "Development Tools"
+    },
+    {
+      "name": "Astro",
+      "level": "Learning",
+      "keywords": ["Web development", "Frontend", "Static Site Generation"],
+      "category": "Currently Learning"
+    },
+    {
+      "name": "Next.js",
+      "level": "Learning",
+      "keywords": ["Web development", "Frontend", "React Framework", "SSR"],
+      "category": "Currently Learning"
     }
-  ],
+  ]
+  
+  ,
   "languages": [
     {
       "language": "Spanish",
@@ -159,15 +367,28 @@
   "references": [],
   "projects": [
     {
-      "name": "Animal Preservation - LATAM",
-      "startDate": "2022-01-01",
+      "name": "Semiyuda",
+      "startDate": "2024-01-03",
       "endDate": "2022-12-31",
       "description": "A platform for managing animal shelters.",
       "highlights": [
         "Front-end development with React.",
         "Back-end with Node.js and MongoDB."
       ],
-      "isActive": false,
+      "isActive": true,
+      "github": "https://github.com/MarianoAMB/Semiyuda",
+      "url": "https://github.com/MarianoAMB/Semiyuda"
+    },
+    {
+      "name": "Animal Preservation - LATAM",
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-31",
+      "description": "A platform for managing animal shelters.",
+      "highlights": [
+        "Front-end development with React.",
+        "Back-end with Node.js and MongoDB."
+      ],
+      "isActive": true,
       "github": "https://github.com/No-Country/c15-57-ft-react-agregarback",
       "url": "https://github.com/No-Country/c15-57-ft-react-agregarback"
     },
