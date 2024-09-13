@@ -1,10 +1,50 @@
 ---
+import astro from "@/icons/astro.astro"
+import bash from "@/icons/bash.astro"
+import bootstrap from "@/icons/bootstrap.astro"
+import bun from "@/icons/bun.astro"
+import css from "@/icons/css.astro"
+import docker from "@/icons/docker.astro"
+import express from "@/icons/express.astro"
+import figma from "@/icons/figma.astro"
+import git from "@/icons/git.astro"
+import github from "@/icons/GitHub.astro"
+import gitlab from "@/icons/gitlab.astro"
+import hibernate from "@/icons/hibernate.astro"
+import html from "@/icons/html.astro"
+import intellij from "@/icons/intellij.astro"
+import java from "@/icons/java.astro"
+import javascript from "@/icons/javascript.astro"
+import jest from "@/icons/jest.astro"
+import laravel from "@/icons/laravel.astro"
+import markdown from "@/icons/markdown.astro"
+import maven from "@/icons/maven.astro"
+import mongodb from "@/icons/mongodb.astro"
+import mysql from "@/icons/sql.astro"
+import netlify from "@/icons/netlify.astro"
+import next from "@/icons/next.astro"
+import node from "@/icons/node.astro"
+import php from "@/icons/php.astro"
+import postgresql from "@/icons/postgresql.astro"
+import postman from "@/icons/postman.astro"
+import python from "@/icons/python.astro"
+import react from "@/icons/react.astro"
+import sass from "@/icons/sass.astro"
+import sequelize from "@/icons/sequelize.astro"
+import spring from "@/icons/spring.astro"
+import styled from "@/icons/styledComponents.astro"
+import tailwind from "@/icons/tailwind.astro"
+import typescript from "@/icons/type.astro"
+import vercel from "@/icons/vercel.astro"
+import vite from "@/icons/vite.astro"
+import vitest from "@/icons/vitest.astro"
+import vscode from "@/icons/vscode.astro"
+
 import Section from "../Section.astro"
 import { skills } from "@cv"
 
 interface Skill {
   name: string;
-  level: string;
   keywords: string[];
   category: string;
 }
@@ -17,6 +57,49 @@ const groupedSkills = skills.reduce<GroupedSkills>((acc, skill) => {
   acc[category].push(skill);
   return acc;
 }, {});
+
+const SKILLS_ICONS: Record<string, any> = {
+  astro,
+  bash,
+  bootstrap,
+  bun,
+  css,
+  docker,
+  express,
+  figma,
+  git,
+  github,
+  gitlab,
+  hibernate,
+  html,
+  intellij,
+  java,
+  javascript,
+  jest,
+  laravel,
+  markdown,
+  maven,
+  mongodb,
+  mysql,
+  netlify,
+  next,
+  node,
+  php,
+  postgresql,
+  postman,
+  python,
+  react,
+  sass,
+  sequelize,
+  spring,
+  styled,
+  tailwind,
+  typescript,
+  vercel,
+  vite,
+  vitest,
+  vscode
+}
 ---
 
 <Section title="Skills">
@@ -27,10 +110,13 @@ const groupedSkills = skills.reduce<GroupedSkills>((acc, skill) => {
           <h3 class="text-lg font-semibold">{category}</h3>
           <ul class="inline-flex gap-2 flex-wrap">
             {
-              skills.map(({ name }) => 
-                <li class="flex items-center bg-gray-200 rounded-md text-black text-sm font-medium gap-1 px-2 py-1">
-                  <span>{name}</span>
-                </li>
+              skills.map(({ name }) => {
+                const Icon = SKILLS_ICONS[name.split(" ")[0].toLowerCase()]
+                return (<li class="flex items-center bg-gray-200 rounded-md text-black text-sm font-medium gap-1 px-2 py-1">
+                  {Icon && <Icon />} <span>{name}</span>
+                </li>)
+              }
+                
               )
             }
           </ul>

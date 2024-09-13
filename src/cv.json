@@ -33,162 +33,97 @@
     ]
   },  
   "work": [
-    {
-      "name": "ADA School",
-      "position": "Professor - Full Stack Development",
-      "url": "https://ada-school.org/",
-      "startDate": "2024-02-01",
-      "endDate": null,
-      "summary": "Teaching full-stack development with a focus on Java, Spring Boot, H2, MongoDB, and PostgreSQL to students in a remote learning environment.",
-      "highlights": [
-        "Remote teaching for Full Stack Development.",
-        "Instruction on Java, Spring Boot, H2, MongoDB, and PostgreSQL technologies.",
-        "Use of modern tools and technologies in full-stack education."
-      ]
-    }
-    ,
-    {
-      "name": "Universidad Nacional de Tres de Febrero",
-      "position": "Professor - Full Stack Web Development",
-      "url": "https://untref.edu.ar/",
-      "startDate": "2023-05-01",
-      "endDate": null,
-      "summary": "Creation of didactic material and practical exercises, evaluation and monitoring of student progress in modern web technologies.",
-      "highlights": [
-        "Developed course materials and practical exercises on HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, SQL, MySQL, and JWT.",
-        "Provided comprehensive instruction on building and securing web applications using modern technologies."
-      ]
-    }
-    ,
-    {
-      "name": "DigitalMind",
-      "position": "Professor - Full Stack Web Development",
-      "url": "https://www.soydigitalmind.com/",
-      "startDate": "2022-05-01",
-      "endDate": "2024-09-01",
-      "summary": "Creation of didactic material and practical exercises, monitoring students' progress in frontend and backend web development.",
-      "highlights": [
-        "Developed course materials and practical exercises on React for frontend development.",
-        "Taught backend development using PHP, Laravel, and version control systems.",
-        "Provided comprehensive instruction on integrating frontend and backend technologies to build robust web applications."
-      ]
-    }
-    ,
-    {
-      "name": "Ledesma",
-      "position": "Professor - Introduction to Computer Science as a Management Tool",
-      "url": "https://www.ledesma.com.ar/",
-      "startDate": "2021-05-01",
-      "endDate": "2024-07-01",
-      "summary": "Part of the Ledesma Innovation and Technology Program in collaboration with the National University of Jujuy.",
-      "highlights": [
-        "User Interfaces: Ways we can interact with our devices.",
-        "Version Control: How teams collaborate and manage code in software development.",
-        "Hardware: What are the physical components of a computer.",
-        "Networks: How devices communicate with the hardware of our systems."
-      ]
-    },
-    {
-      "name": "Universidad Católica de Santiago del Estero",
-      "position": "Professor - Full Stack Web Programming MERN, Models and Simulation, Computer Science, Fundamentals of AI",
-      "url": "https://www.ucse.edu.ar/",
-      "startDate": "2017-09-01",
-      "endDate": "2024-07-01",
-      "summary": "Head Professor of Practical Works in Models and Simulation for the Computer Engineering program.",
-      "highlights": [
-          "Led the development and implementation of the Full Stack Web Programming curriculum using the MERN stack.",
-          "Supervised and guided students in building practical applications based on MERN stack principles.",
-          "Designed and delivered AI-based course material for the Computer Science program.",
-          "Facilitated simulation-based learning in the Models and Simulation course, allowing students to solve real-world engineering problems.",
-          "Mentored students in the Fundamentals of AI, introducing them to machine learning algorithms and neural networks."
-      ]
-  }
-  ,
-  {
-    "name": "Next U",
-    "position": "Professor - Full Stack Development",
-    "url": "https://www.linkedin.com/company/next-u-open-education",
-    "startDate": "2022-05-01",
-    "endDate": "2024-05-01",
-    "summary": "Seasonal professor in Full Stack Development.",
-    "highlights": [
-        "Taught Full Stack web development with a focus on Java, Spring Boot, and React.",
-        "Guided students in building RESTful APIs using Spring Boot, with integrations to PostgreSQL and MySQL databases.",
-        "Led students in developing dynamic frontend applications using React, focusing on component-based architecture and state management.",
-        "Developed hands-on projects where students built full-stack applications, integrating React on the frontend and Spring Boot on the backend."
+      {
+        "name": "ADA School",
+        "position": "Professor - Full Stack Development",
+        "url": "https://ada-school.org/",
+        "startDate": "2024-02-01",
+        "endDate": null,
+        "summary": "Teaching full-stack development with a focus on Java, Spring Boot, H2, MongoDB, and PostgreSQL in a remote learning environment, utilizing modern tools and technologies for comprehensive full-stack education."
+      },
+      {
+        "name": "Universidad Nacional de Tres de Febrero",
+        "position": "Professor - Full Stack Web Development",
+        "url": "https://untref.edu.ar/",
+        "startDate": "2023-05-01",
+        "endDate": null,
+        "summary": "Created course materials and practical exercises focused on HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, SQL, MySQL, and JWT, providing a comprehensive learning experience in building and securing web applications."
+      },
+      {
+        "name": "DigitalMind",
+        "position": "Professor - Full Stack Web Development",
+        "url": "https://www.soydigitalmind.com/",
+        "startDate": "2022-05-01",
+        "endDate": "2024-09-01",
+        "summary": "Developed course materials and exercises for frontend development with React, and taught backend development using PHP, Laravel, and version control systems, integrating both to build robust full-stack applications."
+      },
+      {
+        "name": "Ledesma",
+        "position": "Professor - Introduction to Computer Science as a Management Tool",
+        "url": "https://www.ledesma.com.ar/",
+        "startDate": "2021-05-01",
+        "endDate": "2024-07-01",
+        "summary": "Collaborated with the National University of Jujuy in the Ledesma Innovation and Technology Program, teaching key concepts like user interfaces, version control, hardware, and networks."
+      },
+      {
+        "name": "Universidad Católica de Santiago del Estero",
+        "position": "Professor - Full Stack Web Programming MERN, Models and Simulation, Computer Science, Fundamentals of AI",
+        "url": "https://www.ucse.edu.ar/",
+        "startDate": "2017-09-01",
+        "endDate": "2024-07-01",
+        "summary": "Led the development of the Full Stack Web Programming curriculum using the MERN stack, supervised AI-based projects, and facilitated simulation-based learning in the Models and Simulation course for Computer Science students."
+      },
+      {
+        "name": "Next U",
+        "position": "Professor - Full Stack Development",
+        "url": "https://www.linkedin.com/company/next-u-open-education",
+        "startDate": "2022-05-01",
+        "endDate": "2024-05-01",
+        "summary": "Led Full Stack web development courses focused on Java, Spring Boot, and React, guiding students in building full-stack applications with a Spring Boot backend and React frontend."
+      },
+      {
+        "name": "Freelance",
+        "position": "Full Stack Web Developer",
+        "url": "https://www.upwork.com/",
+        "startDate": "2022-01-01",
+        "endDate": "2023-10-01",
+        "summary": "Completed multiple freelance projects, developing full-stack applications like an Internal Management App, an Animal Shelters App, and an inventory management system, using technologies like React, Node.js, MongoDB, and PostgreSQL."
+      },
+      {
+        "name": "Digital House",
+        "position": "Professor - Certified Tech Developer",
+        "url": "https://www.digitalhouse.com/ar/",
+        "startDate": "2021-01-01",
+        "endDate": "2021-04-01",
+        "summary": "Taught fundamental technical and soft skills in the Certified Tech Developer program, in collaboration with Mercado Libre and Globant."
+      },
+      {
+        "name": "Faculty of Engineering - UNJu",
+        "position": "Professor - Introduction to Computer Science, Database I, Database II, Programming Methodology",
+        "url": "https://www.fi.unju.edu.ar/",
+        "startDate": "2016-05-01",
+        "endDate": "2019-12-01",
+        "summary": "Taught programming methodologies and databases in the Computer Engineering program at the National University of Jujuy."
+      },
+      {
+        "name": "UNICEF Argentina",
+        "position": "Technological Referent",
+        "url": "https://www.unicef.org/argentina/",
+        "startDate": "2018-05-01",
+        "endDate": "2018-12-01",
+        "summary": "Coordinated technical teams and provided training on network maintenance for rural secondary schools in collaboration with UNICEF and the Ministry of Education of Jujuy."
+      },
+      {
+        "name": "Plan 111 Mil",
+        "position": "Instructor",
+        "url": "https://www.argentina.gob.ar/noticias/nuevos-cursos-del-plan-111-mil",
+        "startDate": "2017-09-01",
+        "endDate": "2018-12-01",
+        "summary": "Taught programming techniques, object-oriented programming, databases, and software development using Java, MySQL, and PseInt as part of the national Plan 111 Mil."
+      }
     ]
-  }
   ,
-  {
-    "name": "Freelance",
-    "position": "Full Stack Web Developer",
-    "url": "https://www.upwork.com/",
-    "startDate": "2022-01-01",
-    "endDate": "2023-10-01",
-    "summary": "Completed multiple freelance projects on platforms such as Upwork, Fiverr, and PeoplePerHour.",
-    "highlights": [
-        "Developed an Internal Management App for personnel shift control, integrating user validation and MongoDB for database management, with a React-based front-end and unit testing using Jest.",
-        "Collaborated on a Handmade Products Start-up, handling requirement analysis, front-end development with React and Typescript, and back-end development using Node.js for inventory management.",
-        "Built an Internal Control App for shift and server management, featuring real-time queries and error monitoring, with a React and Typescript front-end, and Node.js and MongoDB back-end.",
-        "Contributed to the development of an Animal Shelters App, creating the front-end using React, Redux, and Typescript, and designing the back-end with PostgreSQL for database management."
-    ]
-  }
-  ,
-    {
-      "name": "Digital House",
-      "position": "Professor - Certified Tech Developer",
-      "url": "https://www.digitalhouse.com/ar/",
-      "startDate": "2021-01-01",
-      "endDate": "2021-04-01",
-      "summary": "Professor for the Certified Tech Developer program in collaboration with Mercado Libre and Globant.",
-      "highlights": [
-        "Taught fundamental soft and technical skills for disruptive companies."
-      ]
-    },
-    {
-      "name": "Faculty of Engineering - UNJu",
-      "position": "Professor - Introduction to Computer Science, Database I, Database II, Programming Methodology",
-      "url": "https://www.fi.unju.edu.ar/",
-      "startDate": "2016-05-01",
-      "endDate": "2019-12-01",
-      "summary": "Professor of various subjects for the Computer Engineering program at the National University of Jujuy.",
-      "highlights": [
-        "Courses focused on programming methodologies and databases."
-      ]
-    },
-    {
-      "name": "UNICEF Argentina",
-      "position": "Technological Referent",
-      "url": "https://www.unicef.org/argentina/",
-      "startDate": "2018-05-01",
-      "endDate": "2018-12-01",
-      "summary": "Technological Referent for the Ministry of Education of Jujuy, in collaboration with UNICEF for rural secondary schools.",
-      "highlights": [
-        "Coordinated technical teams, maintained networks, and provided training for students and teachers."
-      ]
-    },
-    {
-      "name": "Plan 111 Mil",
-      "position": "Instructor",
-      "url": "https://www.argentina.gob.ar/noticias/nuevos-cursos-del-plan-111-mil",
-      "startDate": "2017-09-01",
-      "endDate": "2018-12-01",
-      "summary": "Instructor for modules on programming techniques, object-oriented programming, databases, and software development.",
-      "highlights": [
-        "Taught programming with Java, MySQL, and PseInt."
-      ]
-    }
-  ],
   "education": [
-    {
-      "institution": "National University of Jujuy (UNJu)",
-      "url": "https://www.fi.unju.edu.ar/",
-      "area": "Informatics Engineering",
-      "studyType": "Bachelor",
-      "startDate": "2009-01-01",
-      "endDate": "2015-01-01",
-      "score": "Graduated"
-    },
     {
       "institution": "Henry",
       "url": "https://www.soyhenry.com/",
@@ -196,6 +131,15 @@
       "studyType": "Bootcamp",
       "startDate": "2020-01-01",
       "endDate": "2020-12-01",
+      "score": "Graduated"
+    },
+    {
+      "institution": "National University of Jujuy (UNJu)",
+      "url": "https://www.fi.unju.edu.ar/",
+      "area": "Informatics Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2009-01-01",
+      "endDate": "2015-01-01",
       "score": "Graduated"
     }
   ],
@@ -298,241 +242,201 @@
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
       "keywords": ["Web development", "Frontend", "Markup Language"],
       "category": "Frontend Development"
     },
     {
       "name": "CSS",
-      "level": "Master",
       "keywords": ["Web development", "Frontend", "Design", "Styling"],
       "category": "Frontend Development"
     },
     {
       "name": "Sass",
-      "level": "Advanced",
       "keywords": ["Web development", "Frontend", "CSS Preprocessor"],
       "category": "Frontend Development"
     },
     {
       "name": "JavaScript",
-      "level": "Master",
       "keywords": ["Web development", "Frontend", "Backend", "Fullstack"],
       "category": "Frontend Development"
     },
     {
       "name": "TypeScript",
-      "level": "Advanced",
       "keywords": ["Web development", "Frontend", "JavaScript Superset", "Static Typing"],
       "category": "Frontend Development"
     },
     {
       "name": "React",
-      "level": "Advanced",
       "keywords": ["Web development", "Frontend", "JavaScript Library", "UI"],
       "category": "Frontend Development"
     },
     {
       "name": "Bootstrap",
-      "level": "Advanced",
       "keywords": ["Web development", "Frontend", "CSS Framework", "Responsive Design"],
       "category": "Frontend Development"
     },
     {
       "name": "Tailwind",
-      "level": "Advanced",
       "keywords": ["Web development", "Frontend", "CSS Framework", "Utility-first"],
       "category": "Frontend Development"
     },
     {
       "name": "Styled Components",
-      "level": "Advanced",
       "keywords": ["Web development", "Frontend", "CSS-in-JS", "Design"],
       "category": "Frontend Development"
     },
     {
       "name": "Figma",
-      "level": "Intermediate",
       "keywords": ["Design", "Prototyping", "UI/UX"],
       "category": "Frontend Development"
     },
     {
-      "name": "Git",
-      "level": "Advanced",
-      "keywords": ["Version control", "Collaboration", "Source code"],
-      "category": "Version Control"
-    },
-    {
-      "name": "GitHub",
-      "level": "Advanced",
-      "keywords": ["Version control", "Collaboration", "Repository", "Git"],
-      "category": "Version Control"
-    },
-    {
-      "name": "GitLab",
-      "level": "Intermediate",
-      "keywords": ["Version control", "CI/CD", "Repository"],
-      "category": "Version Control"
-    },
-    {
-      "name": "Node.js",
-      "level": "Advanced",
+      "name": "Node",
       "keywords": ["Web development", "Backend", "JavaScript", "Server"],
       "category": "Backend Development"
     },
     {
       "name": "Express",
-      "level": "Advanced",
       "keywords": ["Web development", "Backend", "JavaScript", "Server Framework"],
       "category": "Backend Development"
     },
     {
       "name": "PHP",
-      "level": "Advanced",
       "keywords": ["Web development", "Backend", "Server-side", "Scripting Language"],
       "category": "Backend Development"
     },
     {
       "name": "Laravel",
-      "level": "Advanced",
       "keywords": ["Web development", "Backend", "PHP Framework", "MVC"],
       "category": "Backend Development"
     },
     {
       "name": "Java",
-      "level": "Master",
       "keywords": ["Backend", "OOP", "Enterprise Applications", "Spring"],
       "category": "Backend Development"
     },
     {
       "name": "Spring",
-      "level": "Advanced",
       "keywords": ["Web development", "Backend", "Java Framework", "Microservices"],
       "category": "Backend Development"
     },
     {
       "name": "Hibernate",
-      "level": "Advanced",
       "keywords": ["ORM", "Backend", "Java", "Database"],
       "category": "Backend Development"
     },
     {
       "name": "Python",
-      "level": "Advanced",
       "keywords": ["Scripting", "Backend", "Machine Learning", "Automation"],
       "category": "Backend Development"
     },
     {
-      "name": "Jest",
-      "level": "Advanced",
-      "keywords": ["Testing", "JavaScript", "Unit Testing", "Frontend"],
-      "category": "Testing"
-    },
-    {
-      "name": "Vitest",
-      "level": "Intermediate",
-      "keywords": ["Testing", "JavaScript", "Unit Testing", "Frontend"],
-      "category": "Testing"
-    },
-    {
       "name": "MongoDB",
-      "level": "Advanced",
       "keywords": ["NoSQL", "Database", "Backend", "Web development"],
       "category": "Databases"
     },
     {
       "name": "MySQL",
-      "level": "Advanced",
       "keywords": ["SQL", "Database", "Relational Database", "Backend"],
       "category": "Databases"
     },
     {
       "name": "PostgreSQL",
-      "level": "Advanced",
       "keywords": ["SQL", "Database", "Relational Database", "Backend"],
       "category": "Databases"
     },
     {
       "name": "Sequelize",
-      "level": "Advanced",
       "keywords": ["ORM", "SQL", "Database", "Node.js"],
       "category": "Databases"
     },
     {
       "name": "Docker",
-      "level": "Advanced",
       "keywords": ["DevOps", "Containers", "CI/CD", "Infrastructure"],
       "category": "DevOps and Infrastructure"
     },
     {
       "name": "Bash",
-      "level": "Intermediate",
       "keywords": ["Scripting", "Automation", "Command-line"],
       "category": "DevOps and Infrastructure"
     },
     {
       "name": "Netlify",
-      "level": "Intermediate",
       "keywords": ["Deployment", "CI/CD", "Web Hosting", "Frontend"],
       "category": "DevOps and Infrastructure"
     },
     {
       "name": "Vercel",
-      "level": "Intermediate",
       "keywords": ["Deployment", "CI/CD", "Web Hosting", "Frontend"],
       "category": "DevOps and Infrastructure"
     },
     {
       "name": "VSCode",
-      "level": "Advanced",
       "keywords": ["IDE", "Development", "Extensions", "JavaScript"],
       "category": "Development Tools"
     },
     {
       "name": "IntelliJ IDEA",
-      "level": "Advanced",
       "keywords": ["IDE", "Java Development", "Fullstack"],
       "category": "Development Tools"
     },
     {
       "name": "Maven",
-      "level": "Advanced",
       "keywords": ["Build Tool", "Java", "Dependency Management", "Backend"],
       "category": "Development Tools"
     },
     {
       "name": "Postman",
-      "level": "Advanced",
       "keywords": ["API", "Testing", "Backend", "Development"],
       "category": "Development Tools"
     },
     {
       "name": "Vite",
-      "level": "Advanced",
       "keywords": ["Frontend", "Build Tool", "JavaScript", "Fast Development"],
       "category": "Development Tools"
     },
     {
       "name": "Bun",
-      "level": "Intermediate",
       "keywords": ["JavaScript", "Runtime", "Server", "Node.js Alternative"],
       "category": "Development Tools"
     },
     {
       "name": "Markdown",
-      "level": "Advanced",
       "keywords": ["Documentation", "Scripting", "Text Formatting"],
       "category": "Development Tools"
     },
     {
+      "name": "Git",
+      "keywords": ["Version control", "Collaboration", "Source code"],
+      "category": "Version Control"
+    },
+    {
+      "name": "GitHub",
+      "keywords": ["Version control", "Collaboration", "Repository", "Git"],
+      "category": "Version Control"
+    },
+    {
+      "name": "GitLab",
+      "keywords": ["Version control", "CI/CD", "Repository"],
+      "category": "Version Control"
+    },
+    {
+      "name": "Jest",
+      "keywords": ["Testing", "JavaScript", "Unit Testing", "Frontend"],
+      "category": "Testing"
+    },
+    {
+      "name": "Vitest",
+      "keywords": ["Testing", "JavaScript", "Unit Testing", "Frontend"],
+      "category": "Testing"
+    },
+    {
       "name": "Astro",
-      "level": "Learning",
       "keywords": ["Web development", "Frontend", "Static Site Generation"],
       "category": "Currently Learning"
     },
     {
-      "name": "Next.js",
-      "level": "Learning",
+      "name": "Next",
       "keywords": ["Web development", "Frontend", "React Framework", "SSR"],
       "category": "Currently Learning"
     }
