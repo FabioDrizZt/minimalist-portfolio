@@ -8,7 +8,7 @@ import docker from "@/icons/docker.astro"
 import express from "@/icons/express.astro"
 import figma from "@/icons/figma.astro"
 import git from "@/icons/git.astro"
-import github from "@/icons/GitHub.astro"
+import github from "@/icons/gh.astro"
 import gitlab from "@/icons/gitlab.astro"
 import hibernate from "@/icons/hibernate.astro"
 import html from "@/icons/html.astro"
@@ -22,7 +22,7 @@ import maven from "@/icons/maven.astro"
 import mongodb from "@/icons/mongodb.astro"
 import mysql from "@/icons/sql.astro"
 import netlify from "@/icons/netlify.astro"
-import next from "@/icons/next.astro"
+import next from "@/icons/Next.astro"
 import node from "@/icons/node.astro"
 import php from "@/icons/php.astro"
 import postgresql from "@/icons/postgresql.astro"
@@ -69,16 +69,16 @@ const SKILLS_ICONS: Record<string, any> = {
       Object.entries(groupedSkills).map(([category, skills]) => (
         <div>
           <h3 class="text-lg font-semibold">{category}</h3>
-          <ul class="inline-flex gap-2 flex-wrap">
+          <ul class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2">
             {
               skills.map(({ name }) => {
                 const Icon = SKILLS_ICONS[name.split(" ")[0].toLowerCase()]
-                return (<li class="flex items-center bg-gray-200 rounded-md text-black text-sm font-medium gap-1 px-2 py-1">
-                  {Icon && <Icon />} <span>{name}</span>
-                </li>)
-              }
-                
-              )
+                return (
+                  <li class="flex items-center bg-gray-200 rounded-md text-black text-sm font-medium gap-1 px-2 py-1">
+                    {Icon && <Icon />} <span>{name}</span>
+                  </li>
+                )
+              })
             }
           </ul>
         </div>
@@ -86,3 +86,5 @@ const SKILLS_ICONS: Record<string, any> = {
     }
   </div>
 </Section>
+
+

@@ -21,14 +21,14 @@
         "url": "https://www.linkedin.com/in/fabiodrizzt"
       },
       {
-        "network": "X",
-        "username": "fabiodrizzt",
-        "url": "https://x.com/fabiodrizzt"
-      },
-      {
         "network": "GitHub",
         "username": "fabiodrizzt",
         "url": "https://github.com/fabiodrizzt"
+      },
+      {
+        "network": "X",
+        "username": "fabiodrizzt",
+        "url": "https://x.com/fabiodrizzt"
       }
     ]
   },  
@@ -301,6 +301,11 @@
       "category": "Backend Development"
     },
     {
+      "name": "Sequelize",
+      "keywords": ["ORM", "SQL", "Database", "Node.js"],
+      "category": "Backend Development"
+    },
+    {
       "name": "PHP",
       "keywords": ["Web development", "Backend", "Server-side", "Scripting Language"],
       "category": "Backend Development"
@@ -326,14 +331,14 @@
       "category": "Backend Development"
     },
     {
-      "name": "Python",
-      "keywords": ["Scripting", "Backend", "Machine Learning", "Automation"],
+      "name": "Postman",
+      "keywords": ["API", "Testing", "Backend", "Development"],
       "category": "Backend Development"
     },
     {
-      "name": "MongoDB",
-      "keywords": ["NoSQL", "Database", "Backend", "Web development"],
-      "category": "Databases"
+      "name": "Python",
+      "keywords": ["Scripting", "Backend", "Machine Learning", "Automation"],
+      "category": "Backend Development"
     },
     {
       "name": "MySQL",
@@ -346,9 +351,39 @@
       "category": "Databases"
     },
     {
-      "name": "Sequelize",
-      "keywords": ["ORM", "SQL", "Database", "Node.js"],
+      "name": "MongoDB",
+      "keywords": ["NoSQL", "Database", "Backend", "Web development"],
       "category": "Databases"
+    },
+        {
+      "name": "VSCode",
+      "keywords": ["IDE", "Development", "Extensions", "JavaScript"],
+      "category": "Development Tools"
+    },
+    {
+      "name": "IntelliJ IDEA",
+      "keywords": ["IDE", "Java Development", "Fullstack"],
+      "category": "Development Tools"
+    },
+    {
+      "name": "Maven",
+      "keywords": ["Build Tool", "Java", "Dependency Management", "Backend"],
+      "category": "Development Tools"
+    },
+    {
+      "name": "Vite",
+      "keywords": ["Frontend", "Build Tool", "JavaScript", "Fast Development"],
+      "category": "Development Tools"
+    },
+    {
+      "name": "Bun",
+      "keywords": ["JavaScript", "Runtime", "Server", "Node.js Alternative"],
+      "category": "Development Tools"
+    },
+    {
+      "name": "Markdown",
+      "keywords": ["Documentation", "Scripting", "Text Formatting"],
+      "category": "Development Tools"
     },
     {
       "name": "Docker",
@@ -369,41 +404,6 @@
       "name": "Vercel",
       "keywords": ["Deployment", "CI/CD", "Web Hosting", "Frontend"],
       "category": "DevOps and Infrastructure"
-    },
-    {
-      "name": "VSCode",
-      "keywords": ["IDE", "Development", "Extensions", "JavaScript"],
-      "category": "Development Tools"
-    },
-    {
-      "name": "IntelliJ IDEA",
-      "keywords": ["IDE", "Java Development", "Fullstack"],
-      "category": "Development Tools"
-    },
-    {
-      "name": "Maven",
-      "keywords": ["Build Tool", "Java", "Dependency Management", "Backend"],
-      "category": "Development Tools"
-    },
-    {
-      "name": "Postman",
-      "keywords": ["API", "Testing", "Backend", "Development"],
-      "category": "Development Tools"
-    },
-    {
-      "name": "Vite",
-      "keywords": ["Frontend", "Build Tool", "JavaScript", "Fast Development"],
-      "category": "Development Tools"
-    },
-    {
-      "name": "Bun",
-      "keywords": ["JavaScript", "Runtime", "Server", "Node.js Alternative"],
-      "category": "Development Tools"
-    },
-    {
-      "name": "Markdown",
-      "keywords": ["Documentation", "Scripting", "Text Formatting"],
-      "category": "Development Tools"
     },
     {
       "name": "Git",
