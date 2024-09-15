@@ -24,18 +24,23 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
 ---
 
 <Section>
-  <div class="flex flex-row items-center justify-between gap-4 md:flex-col-reverse">
-    <div class="flex flex-col gap-2 pr-8 md:pr-0 md:items-center md:text-center">
-      <h1 class="text-2xl">{name}</h1>
-      <h2 class="text-gray-700 font-medium text-[1.1rem]">{label}</h2>
-      <span class="text-gray-600 flex items-center gap-1 text-[0.85rem] tracking-tight">
+  <div class="flex flex-col items-center gap-4 md:flex-row-reverse md:justify-between">
+    {/* Mover la imagen arriba en pantallas pequeñas */}
+    <figure class="w-full flex justify-center items-center md:w-auto">
+      <img src={image} alt={name} class="aspect-square object-cover w-40 h-40 sm:w-48 sm:h-48 md:w-32 md:h-32 lg:w-40 lg:h-40 rounded-lg" />
+    </figure>
+
+    <div class="flex flex-col gap-2 text-center md:text-left md:items-start">
+      <h1 class="text-3xl">{name}</h1>
+      <h2 class="text-gray-700 font-medium text-xl">{label}</h2>
+      <span class="text-gray-600 flex items-center gap-1 text-sm tracking-tight">
         <WorldMap />
         {city}, {region}
       </span>
-      <footer class="hidden print:block text-gray-600 text-[0.65rem] flex gap-1 mt-2">
+      <footer class="hidden print:block text-gray-600 text-xs flex gap-1 mt-2">
         {printInfo}
       </footer>
-      <footer class="block print:hidden text-gray-600 text-[0.65rem] flex gap-1 mt-2">
+      <footer class="block print:hidden text-gray-600 text-xs flex gap-1 mt-2">
         {email && (
           <a
             href={`mailto:${email}`}
@@ -74,8 +79,6 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
         })}
       </footer>
     </div>
-    <figure class="flex justify-center items-center m-auto">
-      <img src={image} alt={name} class="aspect-square object-cover w-32 rounded-lg" />
-    </figure>
   </div>
 </Section>
+
