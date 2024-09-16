@@ -341,6 +341,11 @@
       "category": "Backend Development"
     },
     {
+      "name": "Flask",
+      "keywords": ["Web development", "Backend", "Python Framework", "MVC"],
+      "category": "Backend Development"
+    },
+    {
       "name": "MySQL",
       "keywords": ["SQL", "Database", "Relational Database", "Backend"],
       "category": "Databases"
