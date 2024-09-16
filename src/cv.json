@@ -125,15 +125,6 @@
   ,
   "education": [
     {
-      "institution": "Henry",
-      "url": "https://www.soyhenry.com/",
-      "area": "Full-Stack Web Development",
-      "studyType": "Bootcamp",
-      "startDate": "2020-01-01",
-      "endDate": "2020-12-01",
-      "score": "Graduated"
-    },
-    {
       "institution": "National University of Jujuy (UNJu)",
       "url": "https://www.fi.unju.edu.ar/",
       "area": "Informatics Engineering",
