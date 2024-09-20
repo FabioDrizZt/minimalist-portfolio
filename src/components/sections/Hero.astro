@@ -9,7 +9,7 @@ import GitHub from "@/icons/GitHub.astro"
 import WorldMap from "@/icons/WorldMap.astro"
 
 const { name, label, image, location, profiles, phone, email } = basics
-const { city, region } = location
+const { city, region, countryCode } = location
 
 const SOCIAL_ICONS: Record<string, string | any> = {
   GitHub,
@@ -24,17 +24,13 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
 ---
 
 <Section>
-  <div class="flex flex-col items-center gap-4 md:flex-row-reverse md:justify-between">
-    <figure class="w-full flex justify-center items-center md:w-auto">
-      <img src={image} alt={name} class="aspect-square object-cover w-40 h-40 sm:w-48 sm:h-48 md:w-32 md:h-32 lg:w-40 lg:h-40 rounded-full" />
-    </figure>
-
-    <div class="flex flex-col gap-2 text-center md:text-left md:items-start">
+  <div class="flex flex-col items-center gap-4 sm:flex-row sm:justify-between">
+    <div class="flex flex-col gap-2 text-center sm:text-left sm:items-start order-2 sm:order-1">
       <h1 class="text-3xl">{name}</h1>
       <h2 class="text-gray-700 font-medium text-xl">{label}</h2>
       <span class="text-gray-600 flex items-center gap-1 text-sm tracking-tight">
         <WorldMap />
-        {city}, {region}
+        {city}, {region}, {countryCode}
       </span>
       <footer class="hidden print:block text-gray-600 text-xs flex gap-1 mt-2">
         {printInfo}
@@ -78,6 +74,9 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
         })}
       </footer>
     </div>
+
+    <figure class="w-full flex justify-center items-center sm:w-auto order-1 sm:order-2">
+      <img src={image} alt={name} class="aspect-square object-cover w-40 h-40 sm:w-48 sm:h-48 md:w-32 md:h-32 lg:w-40 lg:h-40 rounded-full" />
+    </figure>
   </div>
 </Section>
-

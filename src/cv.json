@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Fabio D. Argañaraz",
-    "label": "Full Stack Developer | Computer Science Professor",
+    "label": "Ingeniero en Informática | Profesor en Ciencias de la Computación | Desarrollador Full Stack",
     "image": "./me.png",
     "email": "ing.fabio.arg@gmail.com",
     "phone": "(+54) 388 5733 294",
     "url": "https://github.com/FabioDrizZt",
-    "summary": "Experienced Full Stack Developer with 5 years of web development experience and 8 years of teaching in informatics.",
+    "summary": "Profesor apasionado con más de 8 años de experiencia en la enseñanza de Ciencias de la Computación. Especializado en el desarrollo de programas educativos enfocados en la informática, combinando teoría y práctica en entornos tanto académicos como empresariales. Ingeniero en Informática y Desarrollador Full Stack con 5 años de experiencia en la creación de soluciones tecnológicas integrales.",
     "location": {
       "address": "",
       "postalCode": "B1754",
-      "city": "San Justo",
-      "countryCode": "AR",
-      "region": "Buenos Aires"
+      "city": "San Salvador de Jujuy",
+      "countryCode": "AR 🇦🇷",
+      "region": "Jujuy"
     },
     "profiles": [
       {
@@ -31,132 +31,84 @@
         "url": "https://x.com/fabiodrizzt"
       }
     ]
-  },  
-  "work": [
+  },
+  
+    "work": [
       {
         "name": "ADA School",
-        "position": "Professor - Full Stack Development",
+        "position": "Profesor - Desarrollo Full Stack",
         "url": "https://ada-school.org/",
         "startDate": "2024-02-01",
         "endDate": null,
-        "summary": "Teaching full-stack development with a focus on Java, Spring Boot, H2, MongoDB, and PostgreSQL in a remote learning environment, utilizing modern tools and technologies for comprehensive full-stack education."
+        "summary": "Imparto clases de desarrollo full stack utilizando tecnologías como Java, Spring Boot, H2, MongoDB y PostgreSQL en un entorno de aprendizaje remoto, fomentando la comprensión práctica y teórica de los conceptos."
       },
       {
         "name": "Universidad Nacional de Tres de Febrero",
-        "position": "Professor - Full Stack Web Development",
+        "position": "Profesor - Desarrollo Web Full Stack",
         "url": "https://untref.edu.ar/",
         "startDate": "2023-05-01",
         "endDate": null,
-        "summary": "Created course materials and practical exercises focused on HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, SQL, MySQL, and JWT, providing a comprehensive learning experience in building and securing web applications."
+        "summary": "Diseño y desarrollo de materiales didácticos y ejercicios prácticos en HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, SQL y MySQL, integrando herramientas de autenticación como JWT."
       },
       {
         "name": "DigitalMind",
-        "position": "Professor - Full Stack Web Development",
+        "position": "Profesor - Desarrollo Web Full Stack",
         "url": "https://www.soydigitalmind.com/",
         "startDate": "2022-05-01",
         "endDate": "2024-09-01",
-        "summary": "Developed course materials and exercises for frontend development with React, and taught backend development using PHP, Laravel, and version control systems, integrating both to build robust full-stack applications."
+        "summary": "Elaboración de contenidos educativos y ejercicios prácticos enfocados en el desarrollo frontend con React y backend utilizando PHP y Laravel, asegurando una enseñanza integral."
       },
       {
         "name": "Ledesma",
-        "position": "Professor - Introduction to Computer Science as a Management Tool",
+        "position": "Profesor - Introducción a la Informática",
         "url": "https://www.ledesma.com.ar/",
         "startDate": "2021-05-01",
         "endDate": "2024-07-01",
-        "summary": "Collaborated with the National University of Jujuy in the Ledesma Innovation and Technology Program, teaching key concepts like user interfaces, version control, hardware, and networks."
+        "summary": "Participación activa en el Programa de Innovación y Tecnología en colaboración con la Universidad Nacional de Jujuy (UNJu), promoviendo la educación tecnológica en el ámbito empresarial."
       },
       {
         "name": "Universidad Católica de Santiago del Estero",
-        "position": "Professor - Full Stack Web Programming MERN, Models and Simulation, Computer Science, Fundamentals of AI",
+        "position": "Profesor - Programación Web MERN, Modelos y Simulación, Informática, Fundamentos de IA",
         "url": "https://www.ucse.edu.ar/",
         "startDate": "2017-09-01",
         "endDate": "2024-07-01",
-        "summary": "Led the development of the Full Stack Web Programming curriculum using the MERN stack, supervised AI-based projects, and facilitated simulation-based learning in the Models and Simulation course for Computer Science students."
-      },
+        "summary": "Desarrollo del currículum de Programación Web Full Stack con el stack MERN, supervisando proyectos en inteligencia artificial y fomentando el aprendizaje práctico en un entorno académico."
+      }
+    ],
+    "education": [
       {
-        "name": "Next U",
-        "position": "Professor - Full Stack Development",
-        "url": "https://www.linkedin.com/company/next-u-open-education",
-        "startDate": "2022-05-01",
-        "endDate": "2024-05-01",
-        "summary": "Led Full Stack web development courses focused on Java, Spring Boot, and React, guiding students in building full-stack applications with a Spring Boot backend and React frontend."
-      },
-      {
-        "name": "Freelance",
-        "position": "Full Stack Web Developer",
-        "url": "https://www.upwork.com/",
-        "startDate": "2022-01-01",
-        "endDate": "2023-10-01",
-        "summary": "Completed multiple freelance projects, developing full-stack applications like an Internal Management App, an Animal Shelters App, and an inventory management system, using technologies like React, Node.js, MongoDB, and PostgreSQL."
-      },
-      {
-        "name": "Digital House",
-        "position": "Professor - Certified Tech Developer",
-        "url": "https://www.digitalhouse.com/ar/",
-        "startDate": "2021-01-01",
-        "endDate": "2021-04-01",
-        "summary": "Taught fundamental technical and soft skills in the Certified Tech Developer program, in collaboration with Mercado Libre and Globant."
-      },
-      {
-        "name": "Faculty of Engineering - UNJu",
-        "position": "Professor - Introduction to Computer Science, Database I, Database II, Programming Methodology",
+        "institution": "Universidad Nacional de Jujuy (UNJu)",
         "url": "https://www.fi.unju.edu.ar/",
-        "startDate": "2016-05-01",
-        "endDate": "2019-12-01",
-        "summary": "Taught programming methodologies and databases in the Computer Engineering program at the National University of Jujuy."
-      },
-      {
-        "name": "UNICEF Argentina",
-        "position": "Technological Referent",
-        "url": "https://www.unicef.org/argentina/",
-        "startDate": "2018-05-01",
-        "endDate": "2018-12-01",
-        "summary": "Coordinated technical teams and provided training on network maintenance for rural secondary schools in collaboration with UNICEF and the Ministry of Education of Jujuy."
-      },
-      {
-        "name": "Plan 111 Mil",
-        "position": "Instructor",
-        "url": "https://www.argentina.gob.ar/noticias/nuevos-cursos-del-plan-111-mil",
-        "startDate": "2017-09-01",
-        "endDate": "2018-12-01",
-        "summary": "Taught programming techniques, object-oriented programming, databases, and software development using Java, MySQL, and PseInt as part of the national Plan 111 Mil."
+        "area": "Ingeniería Informática",
+        "studyType": "Licenciatura",
+        "startDate": "2009-01-01",
+        "endDate": "2015-01-01",
+        "score": "Graduado"
       }
     ]
-  ,
-  "education": [
+,  "awards": [
     {
-      "institution": "National University of Jujuy (UNJu)",
-      "url": "https://www.fi.unju.edu.ar/",
-      "area": "Informatics Engineering",
-      "studyType": "Bachelor",
-      "startDate": "2009-01-01",
-      "endDate": "2015-01-01",
-      "score": "Graduated"
+      "title": "Medalla al Mejor Promedio",
+      "date": "2015-01-01",
+      "awarder": "Universidad Nacional de Jujuy (UNJu)",
+      "summary": "Premio por alcanzar el mejor promedio en Ingeniería Informática."
     }
   ],
-  "awards": [
-    {
-      "title": "Top GPA Medal",
-      "date": "2015-01-01",
-      "awarder": "National University of Jujuy (UNJu)",
-      "summary": "Award for achieving the highest GPA in the Informatics Engineering degree."
-    }
-  ],  
   "certificates": [
     {
-      "name": "Introduction to Agile Project Management with Azure DevOps",
+      "name": "Introducción a la Gestión de Proyectos Ágiles con Azure DevOps",
       "date": "2020-11-01",
       "issuer": "UCSE"
     },
     {
-      "name": "React and Redux",
+      "name": "React y Redux",
       "date": "2020-07-01",
       "issuer": "Sololearn"
     }
   ],
   "interests": [
     {
-      "name": "Video Games",
+      "name": "Videojuegos",
       "keywords": [
         "Clash Royale",
         "Counter Strike",
@@ -167,274 +119,297 @@
   ],
   "languages": [
     {
-      "language": "Spanish",
-      "fluency": "Native speaker"
+      "language": "Español",
+      "fluency": "Nativo"
     },
     {
-      "language": "English",
-      "fluency": "Fluent"
+      "language": "Inglés",
+      "fluency": "Fluido"
     }
   ],
-  "projects": [
-    {
-      "name": "Semiyuda",
-      "startDate": "2024-01-01",
-      "endDate": "2024-12-31",
-      "description": "A platform for users to donate and receive food, and manage seed planting for home gardening.",
-      "highlights": [
-        "User registration with email or phone number, including account verification and KYC.",
-        "Seed kit request with delivery address and order tracking.",
-        "Food donation functionality with quantity indication and photo upload, plus a reward system for donations.",
-        "Food request and receipt for users in need with eligibility verification.",
-        "Instant messaging for communication between users and organizations.",
-        "Geolocation and mapping integration for efficient food delivery and tracking.",
-        "Reports and statistics on app performance and impact."
-      ],
-      "isActive": true,
-      "github": "https://github.com/your-repo/semiyuda",
-      "url": "https://semiyuda.example.com/"
-    }
-    ,
-  {
-    "name": "Preservation Animal",
-    "startDate": "2023-01-01",
-    "endDate": "2023-12-31",
-    "description": "Wildlife Preservation Platform in Latin America.",
-    "highlights": [
-      "Developed a comprehensive platform for biodiversity conservation in Latin America.",
-      "Implemented an e-commerce system for selling exclusive merchandise, with contributions directly supporting conservation projects.",
-      "Developed features for direct donations and volunteering opportunities.",
-      "Created a user portal for managing products, tracking transactions, and receiving notifications.",
-      "Utilized advanced technologies such as React, Vite, TailwindCSS, and Formik for a smooth and modern user experience."
-    ],
-    "isActive": false,
-    "github": "https://github.com/No-Country/c15-57-ft-react-agregarback",
-    "url": "https://c15-57-ft-react-agregarback.vercel.app/"
-  }
-  ,
-    {
-      "name": "Henry-Bank",
-      "startDate": "2021-01-01",
-      "endDate": "2021-12-31",
-      "description": "E-wallet mobile application.",
-      "highlights": [
-        "Developed a scalable backend using Node.js and microservices architecture.",
-        "Integrated with third-party APIs for payment processing and user authentication.",
-        "Built a responsive mobile front-end with React Native, ensuring cross-platform compatibility.",
-        "Optimized database queries, reducing load times by 30%.",
-        "Implemented secure transaction protocols and JWT-based user authentication.",
-        "Collaborated with a team of 4 developers using Agile methodologies."
-      ],
-      "isActive": false,
-      "github": "https://github.com/FabioDrizZt/Henry-Bank",
-      "url": "https://www.youtube.com/watch?v=t1KtkQB5uQ8"
-    }
-  ],
+    "projects": [
+      {
+        "name": "Semiyuda",
+        "startDate": "2024-01-01",
+        "endDate": "2024-12-31",
+        "description": "Una plataforma para que los usuarios donen y reciban alimentos, y gestionen la siembra de semillas para la jardinería en casa.",
+        "highlights": [
+          "Registro de usuarios con correo electrónico o número de teléfono, incluyendo verificación de cuenta y KYC.",
+          "Solicitud de kits de semillas con dirección de entrega y seguimiento de pedidos.",
+          "Funcionalidad de donación de alimentos con indicación de cantidad y carga de fotos, además de un sistema de recompensas por donaciones.",
+          "Solicitud y recepción de alimentos para usuarios necesitados con verificación de elegibilidad.",
+          "Mensajería instantánea para la comunicación entre usuarios y organizaciones.",
+          "Integración de geolocalización y mapeo para la entrega eficiente de alimentos y su seguimiento.",
+          "Informes y estadísticas sobre el rendimiento e impacto de la aplicación."
+        ],
+        "isActive": true,
+        "github": "https://github.com/your-repo/semiyuda",
+        "url": "https://semiyuda.example.com/"
+      },
+      {
+        "name": "Preservation Animal",
+        "startDate": "2023-01-01",
+        "endDate": "2023-12-31",
+        "description": "Plataforma de preservación de la vida silvestre en América Latina.",
+        "highlights": [
+          "Desarrollo de una plataforma integral para la conservación de la biodiversidad en América Latina.",
+          "Implementación de un sistema de comercio electrónico para vender productos exclusivos, con contribuciones directamente destinadas a proyectos de conservación.",
+          "Desarrollo de funciones para donaciones directas y oportunidades de voluntariado.",
+          "Creación de un portal de usuario para gestionar productos, rastrear transacciones y recibir notificaciones.",
+          "Utilización de tecnologías avanzadas como React, Vite, TailwindCSS y Formik para una experiencia de usuario fluida y moderna."
+        ],
+        "isActive": false,
+        "github": "https://github.com/No-Country/c15-57-ft-react-agregarback",
+        "url": "https://c15-57-ft-react-agregarback.vercel.app/"
+      }
+    ]
+  ,  
   "skills": [
+    {
+      "name": "Comunicación efectiva",
+      "keywords": ["Comunicación", "Relaciones Interpersonales", "Liderazgo"],
+      "category": "Habilidades Blandas"
+    },
+    {
+      "name": "Liderazgo",
+      "keywords": ["Gestión de Equipos", "Toma de Decisiones", "Mentoría"],
+      "category": "Habilidades Blandas"
+    },
+    {
+      "name": "Resolución de problemas",
+      "keywords": ["Pensamiento Crítico", "Solución Creativa", "Análisis"],
+      "category": "Habilidades Blandas"
+    },
+    {
+      "name": "Trabajo en equipo",
+      "keywords": ["Colaboración", "Coordinación", "Empatía"],
+      "category": "Habilidades Blandas"
+    },
+    {
+      "name": "Empatía",
+      "keywords": ["Inteligencia Emocional", "Relaciones Interpersonales", "Comunicación"],
+      "category": "Habilidades Blandas"
+    },
+    {
+      "name": "Gestión del tiempo",
+      "keywords": ["Productividad", "Organización", "Planificación"],
+      "category": "Habilidades Blandas"
+    },
+    {
+      "name": "Adaptabilidad",
+      "keywords": ["Flexibilidad", "Cambio", "Resolución de Problemas"],
+      "category": "Habilidades Blandas"
+    },
+    {
+      "name": "Mentoría",
+      "keywords": ["Orientación", "Liderazgo", "Desarrollo Personal"],
+      "category": "Habilidades Blandas"
+    }
+,    
     {
       "name": "HTML",
       "keywords": ["Web development", "Frontend", "Markup Language"],
-      "category": "Frontend Development"
+      "category": "Desarrollo Frontend"
     },
     {
       "name": "CSS",
       "keywords": ["Web development", "Frontend", "Design", "Styling"],
-      "category": "Frontend Development"
+      "category": "Desarrollo Frontend"
     },
     {
       "name": "Sass",
       "keywords": ["Web development", "Frontend", "CSS Preprocessor"],
-      "category": "Frontend Development"
+      "category": "Desarrollo Frontend"
     },
     {
       "name": "JavaScript",
       "keywords": ["Web development", "Frontend", "Backend", "Fullstack"],
-      "category": "Frontend Development"
+      "category": "Desarrollo Frontend"
     },
     {
       "name": "TypeScript",
       "keywords": ["Web development", "Frontend", "JavaScript Superset", "Static Typing"],
-      "category": "Frontend Development"
+      "category": "Desarrollo Frontend"
     },
     {
       "name": "React",
       "keywords": ["Web development", "Frontend", "JavaScript Library", "UI"],
-      "category": "Frontend Development"
+      "category": "Desarrollo Frontend"
     },
     {
       "name": "Bootstrap",
       "keywords": ["Web development", "Frontend", "CSS Framework", "Responsive Design"],
-      "category": "Frontend Development"
+      "category": "Desarrollo Frontend"
     },
     {
       "name": "Tailwind",
       "keywords": ["Web development", "Frontend", "CSS Framework", "Utility-first"],
-      "category": "Frontend Development"
+      "category": "Desarrollo Frontend"
     },
     {
       "name": "Styled Components",
       "keywords": ["Web development", "Frontend", "CSS-in-JS", "Design"],
-      "category": "Frontend Development"
+      "category": "Desarrollo Frontend"
     },
     {
       "name": "Figma",
       "keywords": ["Design", "Prototyping", "UI/UX"],
-      "category": "Frontend Development"
+      "category": "Desarrollo Frontend"
     },
     {
       "name": "Node",
       "keywords": ["Web development", "Backend", "JavaScript", "Server"],
-      "category": "Backend Development"
+      "category": "Desarrollo Backend"
     },
     {
       "name": "Express",
       "keywords": ["Web development", "Backend", "JavaScript", "Server Framework"],
-      "category": "Backend Development"
+      "category": "Desarrollo Backend"
     },
     {
       "name": "Sequelize",
       "keywords": ["ORM", "SQL", "Database", "Node.js"],
-      "category": "Backend Development"
+      "category": "Desarrollo Backend"
     },
     {
       "name": "PHP",
       "keywords": ["Web development", "Backend", "Server-side", "Scripting Language"],
-      "category": "Backend Development"
+      "category": "Desarrollo Backend"
     },
     {
       "name": "Laravel",
       "keywords": ["Web development", "Backend", "PHP Framework", "MVC"],
-      "category": "Backend Development"
+      "category": "Desarrollo Backend"
     },
     {
       "name": "Java",
       "keywords": ["Backend", "OOP", "Enterprise Applications", "Spring"],
-      "category": "Backend Development"
+      "category": "Desarrollo Backend"
     },
     {
       "name": "Spring",
       "keywords": ["Web development", "Backend", "Java Framework", "Microservices"],
-      "category": "Backend Development"
+      "category": "Desarrollo Backend"
     },
     {
       "name": "Hibernate",
       "keywords": ["ORM", "Backend", "Java", "Database"],
-      "category": "Backend Development"
+      "category": "Desarrollo Backend"
     },
     {
       "name": "Postman",
       "keywords": ["API", "Testing", "Backend", "Development"],
-      "category": "Backend Development"
+      "category": "Desarrollo Backend"
     },
     {
       "name": "Python",
       "keywords": ["Scripting", "Backend", "Machine Learning", "Automation"],
-      "category": "Backend Development"
+      "category": "Desarrollo Backend"
     },
     {
       "name": "Flask",
       "keywords": ["Web development", "Backend", "Python Framework", "MVC"],
-      "category": "Backend Development"
+      "category": "Desarrollo Backend"
     },
     {
       "name": "MySQL",
       "keywords": ["SQL", "Database", "Relational Database", "Backend"],
-      "category": "Databases"
+      "category": "Bases de Datos"
     },
     {
       "name": "PostgreSQL",
       "keywords": ["SQL", "Database", "Relational Database", "Backend"],
-      "category": "Databases"
+      "category": "Bases de Datos"
     },
     {
       "name": "MongoDB",
       "keywords": ["NoSQL", "Database", "Backend", "Web development"],
-      "category": "Databases"
+      "category": "Bases de Datos"
     },
         {
       "name": "VSCode",
       "keywords": ["IDE", "Development", "Extensions", "JavaScript"],
-      "category": "Development Tools"
+      "category": "Herramientas de Desarollo"
     },
     {
       "name": "IntelliJ IDEA",
       "keywords": ["IDE", "Java Development", "Fullstack"],
-      "category": "Development Tools"
+      "category": "Herramientas de Desarollo"
     },
     {
       "name": "Maven",
       "keywords": ["Build Tool", "Java", "Dependency Management", "Backend"],
-      "category": "Development Tools"
+      "category": "Herramientas de Desarollo"
     },
     {
       "name": "Vite",
       "keywords": ["Frontend", "Build Tool", "JavaScript", "Fast Development"],
-      "category": "Development Tools"
+      "category": "Herramientas de Desarollo"
     },
     {
       "name": "Bun",
       "keywords": ["JavaScript", "Runtime", "Server", "Node.js Alternative"],
-      "category": "Development Tools"
+      "category": "Herramientas de Desarollo"
     },
     {
       "name": "Markdown",
       "keywords": ["Documentation", "Scripting", "Text Formatting"],
-      "category": "Development Tools"
+      "category": "Herramientas de Desarollo"
     },
     {
       "name": "Docker",
       "keywords": ["DevOps", "Containers", "CI/CD", "Infrastructure"],
-      "category": "DevOps and Infrastructure"
+      "category": "DevOps e Infraestructura"
     },
     {
       "name": "Bash",
       "keywords": ["Scripting", "Automation", "Command-line"],
-      "category": "DevOps and Infrastructure"
+      "category": "DevOps e Infraestructura"
     },
     {
       "name": "Netlify",
       "keywords": ["Deployment", "CI/CD", "Web Hosting", "Frontend"],
-      "category": "DevOps and Infrastructure"
+      "category": "DevOps e Infraestructura"
     },
     {
       "name": "Vercel",
       "keywords": ["Deployment", "CI/CD", "Web Hosting", "Frontend"],
-      "category": "DevOps and Infrastructure"
+      "category": "DevOps e Infraestructura"
     },
     {
       "name": "Git",
-      "keywords": ["Version control", "Collaboration", "Source code"],
-      "category": "Version Control"
+      "keywords": ["Control de Versiones", "Collaboration", "Source code"],
+      "category": "Control de Versiones"
     },
     {
       "name": "GitHub",
-      "keywords": ["Version control", "Collaboration", "Repository", "Git"],
-      "category": "Version Control"
+      "keywords": ["Control de Versiones", "Collaboration", "Repository", "Git"],
+      "category": "Control de Versiones"
     },
     {
       "name": "GitLab",
-      "keywords": ["Version control", "CI/CD", "Repository"],
-      "category": "Version Control"
+      "keywords": ["Control de Versiones", "CI/CD", "Repository"],
+      "category": "Control de Versiones"
     },
     {
       "name": "Jest",
       "keywords": ["Testing", "JavaScript", "Unit Testing", "Frontend"],
-      "category": "Testing"
+      "category": "Pruebas"
     },
     {
       "name": "Vitest",
       "keywords": ["Testing", "JavaScript", "Unit Testing", "Frontend"],
-      "category": "Testing"
+      "category": "Pruebas"
     },
     {
       "name": "Astro",
       "keywords": ["Web development", "Frontend", "Static Site Generation"],
-      "category": "Currently Learning"
+      "category": "Actualmente Aprendiendo..."
     },
     {
       "name": "Next",
       "keywords": ["Web development", "Frontend", "React Framework", "SSR"],
-      "category": "Currently Learning"
+      "category": "Actualmente Aprendiendo..."
     }
   ]
 }
