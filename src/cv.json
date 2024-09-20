@@ -134,29 +134,19 @@
         "endDate": "2024-12-31",
         "description": "Una plataforma para que los usuarios donen y reciban alimentos, y gestionen la siembra de semillas para la jardinería en casa.",
         "highlights": [
-          "Registro de usuarios con correo electrónico o número de teléfono, incluyendo verificación de cuenta y KYC.",
-          "Solicitud de kits de semillas con dirección de entrega y seguimiento de pedidos.",
-          "Funcionalidad de donación de alimentos con indicación de cantidad y carga de fotos, además de un sistema de recompensas por donaciones.",
-          "Solicitud y recepción de alimentos para usuarios necesitados con verificación de elegibilidad.",
-          "Mensajería instantánea para la comunicación entre usuarios y organizaciones.",
-          "Integración de geolocalización y mapeo para la entrega eficiente de alimentos y su seguimiento.",
-          "Informes y estadísticas sobre el rendimiento e impacto de la aplicación."
+          "Next.js", "JWT"
         ],
         "isActive": true,
-        "github": "https://github.com/your-repo/semiyuda",
+        "github": "https://github.com/MarianoAMB/semiyuda",
         "url": "https://semiyuda.example.com/"
       },
       {
-        "name": "Preservation Animal",
+        "name": "Preservacion Animal",
         "startDate": "2023-01-01",
         "endDate": "2023-12-31",
         "description": "Plataforma de preservación de la vida silvestre en América Latina.",
         "highlights": [
-          "Desarrollo de una plataforma integral para la conservación de la biodiversidad en América Latina.",
-          "Implementación de un sistema de comercio electrónico para vender productos exclusivos, con contribuciones directamente destinadas a proyectos de conservación.",
-          "Desarrollo de funciones para donaciones directas y oportunidades de voluntariado.",
-          "Creación de un portal de usuario para gestionar productos, rastrear transacciones y recibir notificaciones.",
-          "Utilización de tecnologías avanzadas como React, Vite, TailwindCSS y Formik para una experiencia de usuario fluida y moderna."
+
         ],
         "isActive": false,
         "github": "https://github.com/No-Country/c15-57-ft-react-agregarback",

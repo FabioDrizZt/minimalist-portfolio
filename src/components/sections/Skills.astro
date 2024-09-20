@@ -70,7 +70,7 @@ const SKILLS_ICONS: Record<string, any> = {
       Object.entries(groupedSkills).map(([category, skills]) => (
         <div>
           <h3 class="text-lg font-semibold">{category}</h3>
-          <ul class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2">
+          <ul class="inline-flex gap-2 flex-wrap">
             {
               skills.map(({ name }) => {
                 const Icon = SKILLS_ICONS[name.split(" ")[0].toLowerCase()]
