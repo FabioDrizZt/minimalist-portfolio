@@ -134,7 +134,18 @@
         "endDate": "2024-12-31",
         "description": "Una plataforma para que los usuarios donen y reciban alimentos, y gestionen la siembra de semillas para la jardinería en casa.",
         "highlights": [
-          "Next.js", "JWT"
+          "React",
+          "Vite",
+          "React Router",
+          "Axios",
+          "TailwindCSS",
+          "Formik",
+          "Yup",
+          "Vercel",
+          "MirageJS",
+          "Figma",
+          "Slack",
+          "Discord"
         ],
         "isActive": true,
         "github": "https://github.com/MarianoAMB/semiyuda",
@@ -146,9 +157,20 @@
         "endDate": "2023-12-31",
         "description": "Plataforma de preservación de la vida silvestre en América Latina.",
         "highlights": [
-
+          "Next.js",
+          "Zustand",
+          "Tailwind CSS",
+          "Express.js",
+          "Sequelize",
+          "PostgreSQL",
+          "Jest",
+          "Cypress",
+          "Git",
+          "GitHub",
+          "Vercel",
+          "Passport.js"
         ],
-        "isActive": false,
+        "isActive": true,
         "github": "https://github.com/No-Country/c15-57-ft-react-agregarback",
         "url": "https://c15-57-ft-react-agregarback.vercel.app/"
       }
