@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Fabio D. Argañaraz",
-    "label": "Full Stack Developer | Computer Science Professor",
+    "label": "Full Stack Developer | Computer Science Professor | Software Engineer",
     "image": "./me.png",
     "email": "ing.fabio.arg@gmail.com",
     "phone": "(+54) 388 5733 294",
     "url": "https://github.com/FabioDrizZt",
-    "summary": "Experienced Full Stack Developer with 5 years of web development experience and 8 years of teaching in informatics.",
+    "summary": "Experienced Full Stack Developer with 5 years of web development experience and 8 years of teaching in informatics. Graduated as a Software Engineer with a strong background in software development and systems engineering.",
     "location": {
       "address": "",
       "postalCode": "B1754",
@@ -54,7 +54,7 @@
         "position": "Professor - Full Stack Web Development",
         "url": "https://www.soydigitalmind.com/",
         "startDate": "2022-05-01",
-        "endDate": "2024-09-01",
+        "endDate": null,
         "summary": "Developed course materials and exercises for frontend development with React, and taught backend development using PHP, Laravel, and version control systems, integrating both to build robust full-stack applications."
       },
       {
