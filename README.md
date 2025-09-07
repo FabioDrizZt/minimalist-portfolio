@@ -1,48 +1,48 @@
 <h2>
-    <em>Résumé</em> minimalist layout for web and pdf
+    Diseño minimalista de <em>Currículum</em> para web y pdf
 </h2>
 <p>
-Schema of the CV JSON from <a href="https://jsonresume.org/schema/">jsonresume.org</a>
+Esquema del CV JSON de <a href="https://jsonresume.org/schema/">jsonresume.org</a>
 </p>
 
 <p>
-Based on the design of <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a>
+Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a>
 </p>
 
 ## 🛠️ Stack
 
-- [**Astro**](https://astro.build/) - The web framework for the new era.
-- [**Typescript**](https://www.typescriptlang.org/) - JavaScript with type syntax.
-- [**Ninja Keys**](https://github.com/ssleptsov/ninja-keys) - Dropdown menu with keyboard shortcuts made in pure Javascript.
+- [**Astro**](https://astro.build/) - El framework web para la nueva era.
+- [**Typescript**](https://www.typescriptlang.org/) - JavaScript con sintaxis de tipos.
+- [**Ninja Keys**](https://github.com/ssleptsov/ninja-keys) - Menú desplegable con atajos de teclado hecho en JavaScript puro.
 
 
-## 🚀 Getting Started
+## 🚀 Comenzando
 
-### 1. Use this [repo](https://github.com/fabiodrizzt/minimalist-portfolio) as a project _template_ for Astro
+### 1. Usa este [repositorio](https://github.com/fabiodrizzt/minimalist-portfolio) como _plantilla_ de proyecto para Astro
 
 
-# Initialize the Project
+# Inicializar el Proyecto
 ```
 npm create astro@latest -- --template fabiodrizzt/minimalist-portfolio-json
 ```
 
-### 2. Add your content:
-Edit the `cv.json` file to create your own printable Portfolio/CV.
-### 3. Start the development server:
+### 2. Agrega tu contenido:
+Edita el archivo `cv.json` para crear tu propio Portafolio/CV imprimible.
+### 3. Inicia el servidor de desarrollo:
 
 ```bash
-# Enjoy the result
+# Disfruta el resultado
 npm dev
 ```
 
 
-1. Open [**http://localhost:4321**](http://localhost:4321/) in your browser to see the result 🚀
+1. Abre [**http://localhost:4321**](http://localhost:4321/) en tu navegador para ver el resultado 🚀
 
 
-## 🧞 Commands
+## 🧞 Comandos
 
-|     | Command          | Action                                        |
+|     | Comando          | Acción                                        |
 | :-- | :--------------- | :-------------------------------------------- |
-| ⚙️  | `dev` or `start` | Launches a local development server on  `localhost:4321`.  |
-| ⚙️  | `build`          | Checks for errors and creates a production build in `./dist/`.      |
-| ⚙️  | `preview`        | Local preview on `localhost:4321` |
+| ⚙️  | `dev` or `start` | Inicia un servidor de desarrollo local en `localhost:4321`.  |
+| ⚙️  | `build`          | Verifica errores y crea una compilación de producción en `./dist/`.      |
+| ⚙️  | `preview`        | Vista previa local en `localhost:4321` |

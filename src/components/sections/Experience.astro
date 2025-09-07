@@ -3,14 +3,14 @@ import Section from "../Section.astro"
 import { work } from "@cv"
 ---
 
-<Section title="Work Experience">
+<Section title="Experiencia Laboral">
   <ul class="flex flex-col gap-8">
     {
       work.map(
         ({ name, startDate, endDate, position, summary, url }) => {
           const startYear = new Date(startDate).getFullYear()
           const endYear =
-            endDate != null ? new Date(endDate).getFullYear() : "Present"
+            endDate != null ? new Date(endDate).getFullYear() : "Actual"
 
           return (
             <li>
