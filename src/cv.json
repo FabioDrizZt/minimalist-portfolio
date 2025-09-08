@@ -315,18 +315,19 @@
       "url": "https://www.youtube.com/watch?v=t1KtkQB5uQ8"
     },
     {
-      "name": "Sports-Store - E-Commerce Web",
-      "startDate": "2020-01-01",
-      "endDate": "2020-12-31",
-      "description": "Tienda online de artículos deportivos.",
+      "name": "Tienda Virtual ML",
+      "startDate": "2024-01-01",
+      "endDate": "2024-12-31",
+      "description": "Examen de manipulación del DOM con JavaScript, inspirado en Mercado Libre.",
       "highlights": [
-        "Desarrollé una plataforma de e-commerce completa para artículos deportivos.",
-        "Implementé funcionalidades de carrito de compras, gestión de inventario y sistema de pagos.",
-        "Stack: React, Node.js, Express, MongoDB, JavaScript."
+        "Aplicación web que simula una tienda online similar a Mercado Libre.",
+        "Manipulación avanzada del DOM con JavaScript vanilla.",
+        "Funcionalidades de búsqueda, filtrado y gestión de productos.",
+        "Interfaz responsive y experiencia de usuario intuitiva."
       ],
       "isActive": false,
-      "github": "https://github.com/FabioDrizZt/Sports-Store",
-      "url": "https://drive.google.com/file/d/1E2S9S1wIcEggOzahfIlARxQIjqSEihGI/view?usp=sharing"
+      "github": "https://github.com/FabioDrizZt/examen-js-tienda",
+      "url": "https://examen-js-tienda.vercel.app/"
     }
   ],
   "skills": [
