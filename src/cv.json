@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Fabio D. Argañaraz",
-    "label": "Desarrollador Full Stack | Profesor de Ciencias de la Computación",
+    "label": "Ingeniero en Informática | Desarrollador Full Stack | Profesor de Ciencias de la Computación",
     "image": "./me.png",
     "email": "ing.fabio.arg@gmail.com",
     "phone": "(+54) 388 5733 294",
@@ -31,117 +31,188 @@
         "url": "https://x.com/fabiodrizzt"
       }
     ]
-  },  
+  },
   "work": [
-      {
-        "name": "ADA School",
-        "position": "Profesor - Desarrollo Full Stack",
-        "url": "https://ada-school.org/",
-        "startDate": "2024-02-01",
-        "endDate": null,
-        "summary": "Enseñanza de desarrollo full-stack con enfoque en Java, Spring Boot, H2, MongoDB y PostgreSQL en entorno de aprendizaje remoto, utilizando herramientas y tecnologías modernas para una educación integral en desarrollo full-stack."
-      },
-      {
-        "name": "Universidad Nacional de Tres de Febrero",
-        "position": "Profesor - Desarrollo Web Full Stack",
-        "url": "https://untref.edu.ar/",
-        "startDate": "2023-05-01",
-        "endDate": null,
-        "summary": "Creación de materiales de curso y ejercicios prácticos enfocados en HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, SQL, MySQL y JWT, proporcionando una experiencia de aprendizaje integral en construcción y seguridad de aplicaciones web."
-      },
-      {
-        "name": "DigitalMind",
-        "position": "Profesor - Desarrollo Web Full Stack",
-        "url": "https://www.soydigitalmind.com/",
-        "startDate": "2022-05-01",
-        "endDate": null,
-        "summary": "Desarrollo de materiales de curso y ejercicios para desarrollo frontend con React, y enseñanza de desarrollo backend usando PHP, Laravel y sistemas de control de versiones, integrando ambos para construir aplicaciones full-stack robustas."
-      },
-      {
-        "name": "Ledesma",
-        "position": "Profesor - Introducción a la Informática como Herramienta de Gestión",
-        "url": "https://www.ledesma.com.ar/",
-        "startDate": "2021-05-01",
-        "endDate": "2024-07-01",
-        "summary": "Colaboración con la Universidad Nacional de Jujuy en el Programa de Innovación y Tecnología de Ledesma, enseñando conceptos clave como interfaces de usuario, control de versiones, hardware y redes."
-      },
-      {
-        "name": "Universidad Católica de Santiago del Estero",
-        "position": "Profesor - Programación Web Full Stack MERN, Modelos y Simulación, Ciencias de la Computación, Fundamentos de IA",
-        "url": "https://www.ucse.edu.ar/",
-        "startDate": "2017-09-01",
-        "endDate": null,
-        "summary": "Liderazgo en el desarrollo del currículo de Programación Web Full Stack usando el stack MERN, supervisión de proyectos basados en IA y facilitación de aprendizaje basado en simulación en el curso de Modelos y Simulación para estudiantes de Ciencias de la Computación."
-      },
-      {
-        "name": "Next U",
-        "position": "Profesor - Desarrollo Full Stack",
-        "url": "https://www.linkedin.com/company/next-u-open-education",
-        "startDate": "2022-05-01",
-        "endDate": "2024-05-01",
-        "summary": "Liderazgo en cursos de desarrollo web Full Stack enfocados en Java, Spring Boot y React, guiando a estudiantes en la construcción de aplicaciones full-stack con backend Spring Boot y frontend React."
-      },
-      {
-        "name": "Freelance",
-        "position": "Desarrollador Web Full Stack",
-        "url": "https://www.upwork.com/",
-        "startDate": "2022-01-01",
-        "endDate": "2023-10-01",
-        "summary": "Completé múltiples proyectos freelance, desarrollando aplicaciones full-stack como App de Gestión Interna, App para Refugios de Animales y sistema de gestión de inventario, usando tecnologías como React, Node.js, MongoDB y PostgreSQL."
-      },
-      {
-        "name": "Digital House",
-        "position": "Profesor - Desarrollador Tech Certificado",
-        "url": "https://www.digitalhouse.com/ar/",
-        "startDate": "2021-01-01",
-        "endDate": "2021-04-01",
-        "summary": "Enseñanza de habilidades técnicas y blandas fundamentales en el programa Certified Tech Developer, en colaboración con Mercado Libre y Globant."
-      },
-      {
-        "name": "Faculty of Engineering - UNJu",
-        "position": "Profesor - Introducción a la Informática, Base de Datos I, Base de Datos II, Metodología de Programación",
-        "url": "https://www.fi.unju.edu.ar/",
-        "startDate": "2016-05-01",
-        "endDate": "2019-12-01",
-        "summary": "Enseñanza de metodologías de programación y bases de datos en el programa de Ingeniería en Informática de la Universidad Nacional de Jujuy."
-      },
-      {
-        "name": "UNICEF Argentina",
-        "position": "Referente Tecnológico",
-        "url": "https://www.unicef.org/argentina/",
-        "startDate": "2018-05-01",
-        "endDate": "2018-12-01",
-        "summary": "Coordinación de equipos técnicos y provisión de capacitación en mantenimiento de redes para escuelas secundarias rurales, en colaboración con UNICEF y el Ministerio de Educación de Jujuy."
-      },
-      {
-        "name": "Plan 111 Mil",
-        "position": "Instructor",
-        "url": "https://www.argentina.gob.ar/noticias/nuevos-cursos-del-plan-111-mil",
-        "startDate": "2017-09-01",
-        "endDate": "2018-12-01",
-        "summary": "Enseñanza de técnicas de programación, programación orientada a objetos, bases de datos y desarrollo de software, usando Java, MySQL y PseInt como parte del Plan Nacional 111 Mil."
-      }
-    ]
-  ,
+    {
+      "name": "Universidad Católica de Santiago del Estero",
+      "position": "Profesor - Algoritmos y Programación (Ingeniería en Informática)",
+      "url": "https://www.ucse.edu.ar/",
+      "startDate": "2017-09-01",
+      "endDate": null,
+      "summary": "Docente de la asignatura \"Algoritmos y Programación\" (1.er año) de la carrera de Ingeniería en Informática (Plan 2022), enfocada en fundamentos de programación, resolución de problemas algorítmicos y pensamiento computacional."
+    },
+    {
+      "name": "Universidad Católica de Santiago del Estero",
+      "position": "Profesor - Programación II (Ingeniería en Informática)",
+      "url": "https://www.ucse.edu.ar/",
+      "startDate": "2023-01-02",
+      "endDate": null,
+      "summary": "Docente de la asignatura \"Programación II\" (3.er año) de la carrera de Ingeniería en Informática (Plan 2022), abarcando programación orientada a objetos, diseño y desarrollo de software y buenas prácticas de codificación."
+    },
+    {
+      "name": "Universidad Católica de Santiago del Estero",
+      "position": "Profesor - Modelos y Simulación (Ingeniería en Informática)",
+      "url": "https://www.ucse.edu.ar/",
+      "startDate": "2017-09-01",
+      "endDate": null,
+      "summary": "Docente de la asignatura \"Modelos y Simulación\" (4.º año) de la carrera de Ingeniería en Informática (Plan 2022), centrada en modelización de sistemas, simulación computacional y análisis de resultados."
+    },
+    {
+      "name": "Universidad Católica de Santiago del Estero",
+      "position": "Profesor - Informática (Téc. Univ. en Automatización y Robótica)",
+      "url": "https://www.ucse.edu.ar/",
+      "startDate": "2020-01-02",
+      "endDate": null,
+      "summary": "Docente de la asignatura \"Informática\" (1.er año) de la carrera Técnico Universitario en Automatización y Robótica, introduciendo herramientas informáticas, programación básica y uso de software aplicado a la automatización."
+    },
+    {
+      "name": "Universidad Católica de Santiago del Estero",
+      "position": "Profesor - Laboratorio I (Téc. Univ. en Automatización y Robótica)",
+      "url": "https://www.ucse.edu.ar/",
+      "startDate": "2020-01-02",
+      "endDate": null,
+      "summary": "Docente de la asignatura \"Laboratorio I\" (2.º año) de la carrera Técnico Universitario en Automatización y Robótica, con foco en prácticas de laboratorio, instrumentación básica y aplicaciones informáticas a la robótica y la automatización."
+    },
+    {
+      "name": "Universidad Nacional de Tres de Febrero",
+      "position": "Profesor - Diplomatura en Desarrollo Web Frontend",
+      "url": "https://untref.edu.ar/",
+      "startDate": "2023-05-01",
+      "endDate": null,
+      "summary": "Docente de Desarrollo Web Frontend, creando materiales y actividades prácticas en HTML, CSS, JavaScript y React, con foco en maquetado responsivo, componentes reutilizables y buenas prácticas de UI/UX."
+    },
+    {
+      "name": "Universidad Nacional de Tres de Febrero",
+      "position": "Profesor - Diplomatura en Desarrollo Web Backend",
+      "url": "https://untref.edu.ar/",
+      "startDate": "2023-05-01",
+      "endDate": null,
+      "summary": "Docente de Desarrollo Web Backend, dictando contenidos de Node.js, Express, MongoDB, SQL, MySQL y JWT, orientados a la construcción de APIs seguras, persistencia de datos y autenticación de usuarios."
+    },
+    {
+      "name": "FUNDAES Instituto de capacitación",
+      "position": "Profesor - Desarrollo Web Frontend",
+      "url": "https://fundaesinstituto.com/",
+      "startDate": "2022-05-01",
+      "endDate": null,
+      "summary": "Docente de Desarrollo Web Frontend, diseñando clases y ejercicios en HTML, CSS, JavaScript y React, promoviendo buenas prácticas de desarrollo, accesibilidad y diseño responsivo."
+    },
+    {
+      "name": "FUNDAES Instituto de capacitación",
+      "position": "Profesor - Desarrollo Web Backend",
+      "url": "https://fundaesinstituto.com/",
+      "startDate": "2022-05-01",
+      "endDate": null,
+      "summary": "Docente de Desarrollo Web Backend, a cargo de contenidos de Node.js, Express, MongoDB, SQL y MySQL, enfocados en diseño de APIs REST, modelado de datos y seguridad básica con JWT."
+    },
+    {
+      "name": "ADA School",
+      "position": "Profesor - Desarrollo Full Stack",
+      "url": "https://ada-school.org/",
+      "startDate": "2024-02-01",
+      "endDate": "2025-12-31",
+      "summary": "Enseñanza de desarrollo full-stack con enfoque en Java, Spring Boot, H2, MongoDB y PostgreSQL en entorno de aprendizaje remoto, utilizando herramientas y tecnologías modernas para una educación integral en desarrollo full-stack."
+    },
+    {
+      "name": "Ledesma",
+      "position": "Profesor - Introducción a la Informática como Herramienta de Gestión",
+      "url": "https://www.ledesma.com.ar/",
+      "startDate": "2021-05-01",
+      "endDate": "2024-07-01",
+      "summary": "Colaboración con la Universidad Nacional de Jujuy en el Programa de Innovación y Tecnología de Ledesma, enseñando conceptos clave como interfaces de usuario, control de versiones, hardware y redes."
+    },
+    {
+      "name": "Next U",
+      "position": "Profesor - Desarrollo Full Stack",
+      "url": "https://www.linkedin.com/company/next-u-open-education",
+      "startDate": "2022-05-01",
+      "endDate": "2024-05-01",
+      "summary": "Liderazgo en cursos de desarrollo web Full Stack enfocados en Java, Spring Boot y React, guiando a estudiantes en la construcción de aplicaciones full-stack con backend Spring Boot y frontend React."
+    },
+    {
+      "name": "Freelance",
+      "position": "Desarrollador Web Full Stack",
+      "url": "https://www.upwork.com/",
+      "startDate": "2022-01-01",
+      "endDate": "2023-10-01",
+      "summary": "Completé múltiples proyectos freelance, desarrollando aplicaciones full-stack como App de Gestión Interna, App para Refugios de Animales y sistema de gestión de inventario, usando tecnologías como React, Node.js, MongoDB y PostgreSQL."
+    },
+    {
+      "name": "Digital House",
+      "position": "Profesor - Desarrollador Tech Certificado",
+      "url": "https://www.digitalhouse.com/ar/",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31",
+      "summary": "Enseñanza de habilidades técnicas y blandas fundamentales en el programa Certified Tech Developer, en colaboración con Mercado Libre y Globant."
+    },
+    {
+      "name": "Universidad Nacional de Jujuy - Facultad de Ingeniería",
+      "position": "Profesor - Introducción a la Informática (Ingeniería en Informática)",
+      "url": "https://www.fi.unju.edu.ar/",
+      "startDate": "2016-05-01",
+      "endDate": "2019-12-01",
+      "summary": "Docente de la asignatura \"Introducción a la Informática\" de la carrera de Ingeniería en Informática, abordando conceptos fundamentales de computación, hardware, software y resolución de problemas con apoyo de herramientas informáticas."
+    },
+    {
+      "name": "Universidad Nacional de Jujuy - Facultad de Ingeniería",
+      "position": "Profesor - Metodología de la Programación (Ingeniería en Informática)",
+      "url": "https://www.fi.unju.edu.ar/",
+      "startDate": "2016-05-01",
+      "endDate": "2019-12-01",
+      "summary": "Docente de la asignatura \"Metodología de la Programación\" de la carrera de Ingeniería en Informática, enfocada en diseño algorítmico, estructura de programas, buenas prácticas y resolución sistemática de problemas de programación."
+    },
+    {
+      "name": "Universidad Nacional de Jujuy - Facultad de Ingeniería",
+      "position": "Profesor - Base de Datos I (APU)",
+      "url": "https://www.fi.unju.edu.ar/",
+      "startDate": "2016-05-01",
+      "endDate": "2019-12-01",
+      "summary": "Docente de la asignatura \"Base de Datos I\" de la carrera Analista Programador Universitario (APU), introduciendo modelos de datos, diseño relacional y lenguaje SQL para la gestión de información."
+    },
+    {
+      "name": "Universidad Nacional de Jujuy - Facultad de Ingeniería",
+      "position": "Profesor - Base de Datos II (APU)",
+      "url": "https://www.fi.unju.edu.ar/",
+      "startDate": "2016-05-01",
+      "endDate": "2019-12-01",
+      "summary": "Docente de la asignatura \"Base de Datos II\" de la carrera Analista Programador Universitario (APU), profundizando en normalización, consultas avanzadas, transacciones y administración de bases de datos."
+    },
+    {
+      "name": "UNICEF Argentina",
+      "position": "Referente Tecnológico",
+      "url": "https://www.unicef.org/argentina/",
+      "startDate": "2018-01-12",
+      "endDate": "2018-12-01",
+      "summary": "Coordinación de equipos técnicos y provisión de capacitación en mantenimiento de redes para escuelas secundarias rurales, en colaboración con UNICEF y el Ministerio de Educación de Jujuy."
+    },
+    {
+      "name": "Plan 111 Mil",
+      "position": "Instructor",
+      "url": "https://www.argentina.gob.ar/noticias/nuevos-cursos-del-plan-111-mil",
+      "startDate": "2017-09-01",
+      "endDate": "2018-12-01",
+      "summary": "Enseñanza de técnicas de programación, programación orientada a objetos, bases de datos y desarrollo de software, usando Java, MySQL y PseInt como parte del Plan Nacional 111 Mil."
+    }
+  ],
   "education": [
     {
       "institution": "Universidad Nacional de Jujuy (UNJu)",
       "url": "https://www.fi.unju.edu.ar/",
       "area": "Ingeniería en Informática",
       "studyType": "Licenciatura",
-      "startDate": "2009-01-01",
-      "endDate": "2015-01-01",
+      "startDate": "2009-02-01",
+      "endDate": "2015-12-01",
       "score": "Graduado"
     }
   ],
   "awards": [
     {
       "title": "Medalla al Mejor Promedio",
-      "date": "2015-01-01",
+      "date": "2015-03-01",
       "awarder": "Universidad Nacional de Jujuy (UNJu)",
       "summary": "Reconocimiento por lograr el mejor promedio en la carrera de Ingeniería en Informática."
     }
-  ],  
+  ],
   "certificates": [
     {
       "name": "Django Web Framework",
@@ -214,19 +285,6 @@
       "issuer": "Codecademy"
     }
   ],
-  "interests": [
-    {
-      "name": "Videojuegos",
-      "keywords": [
-        "Clash Royale",
-        "Squad Busters",
-        "Counter Strike",
-        "Overwatch",
-        "Diablo 4",
-        "Baldur's Gate 3"
-      ]
-    }
-  ],
   "languages": [
     {
       "language": "Español",
@@ -258,7 +316,6 @@
       "endDate": null,
       "description": "Sistema completo para optimizar y digitalizar procesos educativos con tres paneles: Administración, Profesor y Alumno.",
       "highlights": [
-        "Panel de Administración: Gestión de usuarios, carreras, materias, cursos y mesas de exámenes.",
         "Panel del Alumno: Inscripciones online, seguimiento académico, autoservicio de documentación.",
         "Panel del Profesor: Consulta de inscriptos, gestión de cursos, registro de notas.",
         "Stack: Next.js, Supabase, TypeScript, Tailwind CSS."
@@ -313,21 +370,6 @@
       "isActive": false,
       "github": "https://github.com/FabioDrizZt/Henry-Bank",
       "url": "https://www.youtube.com/watch?v=t1KtkQB5uQ8"
-    },
-    {
-      "name": "Tienda Virtual ML",
-      "startDate": "2024-01-01",
-      "endDate": "2024-12-31",
-      "description": "Examen de manipulación del DOM con JavaScript, inspirado en Mercado Libre.",
-      "highlights": [
-        "Aplicación web que simula una tienda online similar a Mercado Libre.",
-        "Manipulación avanzada del DOM con JavaScript vanilla.",
-        "Funcionalidades de búsqueda, filtrado y gestión de productos.",
-        "Interfaz responsive y experiencia de usuario intuitiva."
-      ],
-      "isActive": false,
-      "github": "https://github.com/FabioDrizZt/examen-js-tienda",
-      "url": "https://examen-js-tienda.vercel.app/"
     }
   ],
   "skills": [
@@ -353,7 +395,12 @@
     },
     {
       "name": "TypeScript",
-      "keywords": ["Web development", "Frontend", "JavaScript Superset", "Static Typing"],
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "JavaScript Superset",
+        "Static Typing"
+      ],
       "category": "Desarrollo Frontend"
     },
     {
@@ -363,12 +410,22 @@
     },
     {
       "name": "Bootstrap",
-      "keywords": ["Web development", "Frontend", "CSS Framework", "Responsive Design"],
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ],
       "category": "Desarrollo Frontend"
     },
     {
       "name": "Tailwind",
-      "keywords": ["Web development", "Frontend", "CSS Framework", "Utility-first"],
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "CSS Framework",
+        "Utility-first"
+      ],
       "category": "Desarrollo Frontend"
     },
     {
@@ -388,7 +445,12 @@
     },
     {
       "name": "Express",
-      "keywords": ["Web development", "Backend", "JavaScript", "Server Framework"],
+      "keywords": [
+        "Web development",
+        "Backend",
+        "JavaScript",
+        "Server Framework"
+      ],
       "category": "Desarrollo Backend"
     },
     {
@@ -398,7 +460,12 @@
     },
     {
       "name": "PHP",
-      "keywords": ["Web development", "Backend", "Server-side", "Scripting Language"],
+      "keywords": [
+        "Web development",
+        "Backend",
+        "Server-side",
+        "Scripting Language"
+      ],
       "category": "Desarrollo Backend"
     },
     {
@@ -413,7 +480,12 @@
     },
     {
       "name": "Spring",
-      "keywords": ["Web development", "Backend", "Java Framework", "Microservices"],
+      "keywords": [
+        "Web development",
+        "Backend",
+        "Java Framework",
+        "Microservices"
+      ],
       "category": "Desarrollo Backend"
     },
     {
@@ -437,6 +509,28 @@
       "category": "Desarrollo Backend"
     },
     {
+      "name": "Astro",
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "Static Site Generation",
+        "SSG/SSR"
+      ],
+      "category": "Frameworks Avanzados"
+    },
+    {
+      "name": "Next",
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "App Router",
+        "Server Components"
+      ],
+      "category": "Frameworks Avanzados"
+    },
+    {
       "name": "MySQL",
       "keywords": ["SQL", "Database", "Relational Database", "Backend"],
       "category": "Bases de Datos"
@@ -451,7 +545,7 @@
       "keywords": ["NoSQL", "Database", "Backend", "Web development"],
       "category": "Bases de Datos"
     },
-        {
+    {
       "name": "VSCode",
       "keywords": ["IDE", "Development", "Extensions", "JavaScript"],
       "category": "Herramientas de Desarrollo"
@@ -526,16 +620,7 @@
       "keywords": ["Testing", "JavaScript", "Unit Testing", "Frontend"],
       "category": "Pruebas"
     },
-    {
-      "name": "Astro",
-      "keywords": ["Web development", "Frontend", "Static Site Generation", "SSG/SSR"],
-      "category": "Frameworks Avanzados"
-    },
-    {
-      "name": "Next",
-      "keywords": ["Web development", "Frontend", "React Framework", "SSR", "App Router", "Server Components"],
-      "category": "Frameworks Avanzados"
-    },
+
     {
       "name": "Go",
       "keywords": ["Backend", "Microservices", "High Performance", "Golang"],
