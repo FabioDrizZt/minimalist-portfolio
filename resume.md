@@ -3,9 +3,9 @@
 <h1 align="center">¡Hola! Soy Fabio D. Argañaraz 👋</h1>
 
 <p align="center">
-  <strong>🚀 Desarrollador Full Stack | 👨‍🏫 Profesor de Informática </strong><br/>
-  Con 5 años de experiencia en desarrollo web y 8 años enseñando programación. Apasionado por crear aplicaciones web eficientes, escalables y amigables con el usuario, y por mentorizar a la próxima generación de desarrolladores. <br/>
-  🎓 Ingeniero en Informática por la Universidad Nacional de Jujuy (UNJu), Argentina.
+  <strong>👨‍🏫 Profesor Universitario de Ciencias de la Computación | 🎓 Ingeniero en Informática (Medalla de Honor) | 🚀 Especialista en EdTech</strong><br/>
+  Con más de 8 años de experiencia en docencia universitaria de grado (UCSE, UNJu) y formación profesional (UNTREF, FUNDAES, ADA School, Digital House). Apasionado por la innovación pedagógica, el diseño curricular, la gamificación y la integración de Inteligencia Artificial en la enseñanza de la programación. <br/>
+  🎓 Ingeniero en Informática (Mejor Promedio) por la Universidad Nacional de Jujuy (UNJu), Argentina.
 </p>
 
 ## 📬 Contacto
@@ -283,6 +283,14 @@ Desarrollador Full Stack con 5 años de experiencia en la industria y una sólid
 
 <details>
   <summary><strong>Posiciones Actuales (2022 - Actualidad)</strong></summary>
+
+##### Disertante y Profesor de Taller - Desarrollo Ágil con IA | [Universidad Católica de Santiago del Estero](https://www.ucse.edu.ar/) | Abr 2026
+- Taller universitario (Disposición N.° 138-2026 UCSE-DASS, 10 hs reloj, modalidad virtual).
+- Capacitación sobre marcos ágiles Scrum potenciados con herramientas de Inteligencia Artificial (GitHub Copilot, ChatGPT, asistentes IA), historias de usuario y trabajo en repositorios colaborativos Git.
+
+##### Disertante y Profesor de Taller - Domina la Terminal Inteligente (CLI y Git/GitHub con IA) | [Universidad Católica de Santiago del Estero](https://www.ucse.edu.ar/) | Mar 2026 – Abr 2026
+- Taller universitario (Disposición N.° 236-2026 UCSE-DASS, 10 hs reloj).
+- Capacitación sobre terminales inteligentes (Warp con IA), control de versiones avanzado con Git/GitHub y despliegue continuo en GitHub Pages.
 
 ##### Professor - Full Stack Web Programming MERN, Models and Simulation, Computer Science, Fundamentals of AI | [Universidad Católica de Santiago del Estero](https://www.ucse.edu.ar/) | Sep 2017 – Actualidad
 - Liderazgo en el desarrollo del currículo de Programación Web Full Stack usando el stack MERN.

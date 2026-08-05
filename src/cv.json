@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Fabio D. Argañaraz",
-    "label": "Ingeniero en Informática | Desarrollador Full Stack | Profesor de Ciencias de la Computación",
+    "label": "Profesor Universitario de Ciencias de la Computación | Ingeniero en Informática | Especialista en EdTech",
     "image": "./me.png",
     "email": "ing.fabio.arg@gmail.com",
     "phone": "(+54) 388 5733 294",
     "url": "https://github.com/FabioDrizZt",
-    "summary": "Desarrollador Full Stack con 5 años de experiencia en la industria y una sólida trayectoria en tecnologías web modernas como React, Node.js, Express, Java/Spring, PostgreSQL, MongoDB, SQL, PHP y Laravel. Especializado en frameworks avanzados como Astro y Next.js, con dominio completo en desarrollo de aplicaciones SSR/SSG y optimización de rendimiento. Experto en arquitecturas escalables y metodologías ágiles (Scrum, Kanban), con sólida experiencia en Java/Spring Boot y Spring Security para desarrollo enterprise. Experto en herramientas de IA para desarrolladores, incluyendo ChatGPT, GitHub Copilot, Claude y Cursor AI, lo que me permite acelerar el desarrollo y crear soluciones más eficientes. Competente en el uso de herramientas como Git, Docker y Figma. Además, me desempeño como Profesor de Informática, colaborando con plataformas educativas online y guiando a futuros desarrolladores en las últimas tendencias tecnológicas.",
+    "summary": "Profesor Universitario e Ingeniero en Informática, galardonado con la Medalla al Mejor Promedio por la Universidad Nacional de Jujuy (UNJu). Cuento con más de 8 años de trayectoria docente en carreras de grado universitario (UCSE, UNJu) y programas de formación profesional (UNTREF, FUNDAES, ADA School, Digital House). Especializado en la enseñanza de Algoritmos y Programación, Programación Orientada a Objetos, Bases de Datos, Modelos y Simulación, y Desarrollo Web Full Stack. Apasionado por la innovación pedagógica, el diseño de planes de estudio modernos y la integración de Inteligencia Artificial (ChatGPT, Copilot, Cursor AI) y herramientas gamificadas en el aula. Combino mi experiencia práctica de 5+ años en la industria del software con una marcada vocación académica para formar y acompañar a futuros profesionales e ingenieros en computación.",
     "location": {
       "address": "",
       "postalCode": "4600",
@@ -35,9 +35,25 @@
   "work": [
     {
       "name": "Universidad Católica de Santiago del Estero",
+      "position": "Disertante y Profesor - Taller: Desarrollo Ágil con IA (Scrum + Herramientas Inteligentes)",
+      "url": "https://www.ucse.edu.ar/",
+      "startDate": "2026-04-11",
+      "endDate": "2026-04-18",
+      "summary": "Disertante y docente responsable del taller universitario (Disposición N.° 138-2026 UCSE-DASS, 10 hs reloj). Capacitación en modalidad virtual sobre la integración de Inteligencia Artificial (GitHub Copilot, ChatGPT, asistentes IA) en metodologías ágiles Scrum, historias de usuario y trabajo colaborativo en equipo."
+    },
+    {
+      "name": "Universidad Católica de Santiago del Estero",
+      "position": "Disertante y Profesor - Taller: Domina la Terminal Inteligente (CLI y Control de Versiones con IA)",
+      "url": "https://www.ucse.edu.ar/",
+      "startDate": "2026-03-28",
+      "endDate": "2026-04-04",
+      "summary": "Disertante y docente responsable del taller universitario (Disposición N.° 236-2026 UCSE-DASS, 10 hs reloj). Capacitación para alumnos de Programación II y comunidad universitaria sobre el uso de la terminal inteligente Warp impulsada por IA, control de versiones avanzado con Git y GitHub, y despliegue en GitHub Pages."
+    },
+    {
+      "name": "Universidad Católica de Santiago del Estero",
       "position": "Profesor - Algoritmos y Programación (Ingeniería en Informática)",
       "url": "https://www.ucse.edu.ar/",
-      "startDate": "2017-09-01",
+      "startDate": "2025-01-04",
       "endDate": null,
       "summary": "Docente de la asignatura \"Algoritmos y Programación\" (1.er año) de la carrera de Ingeniería en Informática (Plan 2022), enfocada en fundamentos de programación, resolución de problemas algorítmicos y pensamiento computacional."
     },
@@ -45,7 +61,7 @@
       "name": "Universidad Católica de Santiago del Estero",
       "position": "Profesor - Programación II (Ingeniería en Informática)",
       "url": "https://www.ucse.edu.ar/",
-      "startDate": "2023-01-02",
+      "startDate": "2023-01-04",
       "endDate": null,
       "summary": "Docente de la asignatura \"Programación II\" (3.er año) de la carrera de Ingeniería en Informática (Plan 2022), abarcando programación orientada a objetos, diseño y desarrollo de software y buenas prácticas de codificación."
     },
@@ -78,7 +94,7 @@
       "position": "Profesor - Diplomatura en Desarrollo Web Frontend",
       "url": "https://untref.edu.ar/",
       "startDate": "2023-05-01",
-      "endDate": null,
+      "endDate": "2025-12-31",
       "summary": "Docente de Desarrollo Web Frontend, creando materiales y actividades prácticas en HTML, CSS, JavaScript y React, con foco en maquetado responsivo, componentes reutilizables y buenas prácticas de UI/UX."
     },
     {
@@ -86,7 +102,7 @@
       "position": "Profesor - Diplomatura en Desarrollo Web Backend",
       "url": "https://untref.edu.ar/",
       "startDate": "2023-05-01",
-      "endDate": null,
+      "endDate": "2025-12-31",
       "summary": "Docente de Desarrollo Web Backend, dictando contenidos de Node.js, Express, MongoDB, SQL, MySQL y JWT, orientados a la construcción de APIs seguras, persistencia de datos y autenticación de usuarios."
     },
     {
@@ -94,7 +110,7 @@
       "position": "Profesor - Desarrollo Web Frontend",
       "url": "https://fundaesinstituto.com/",
       "startDate": "2022-05-01",
-      "endDate": null,
+      "endDate": "2025-12-31",
       "summary": "Docente de Desarrollo Web Frontend, diseñando clases y ejercicios en HTML, CSS, JavaScript y React, promoviendo buenas prácticas de desarrollo, accesibilidad y diseño responsivo."
     },
     {
@@ -102,7 +118,7 @@
       "position": "Profesor - Desarrollo Web Backend",
       "url": "https://fundaesinstituto.com/",
       "startDate": "2022-05-01",
-      "endDate": null,
+      "endDate": "2025-12-31",
       "summary": "Docente de Desarrollo Web Backend, a cargo de contenidos de Node.js, Express, MongoDB, SQL y MySQL, enfocados en diseño de APIs REST, modelado de datos y seguridad básica con JWT."
     },
     {
@@ -297,18 +313,18 @@
   ],
   "projects": [
     {
-      "name": "Omi-Tronics - Electronics Store",
+      "name": "Aula Gamificada",
       "startDate": "2025-01-01",
       "endDate": null,
-      "description": "Tienda online de tecnología con TV-box, consolas, mouses, teclados, auriculares y más.",
+      "description": "Plataforma gamificada para la materia 'Algoritmos y Programación' con sistema de ranking y motivación estudiantil.",
       "highlights": [
-        "E-commerce completo con carrito de compras, gestión de productos, y sistema de pagos integrado.",
-        "Desarrollado con Next.js 14+ y Supabase como backend completo.",
-        "Tecnologías: Next.js, Supabase, TypeScript, Tailwind CSS, React Server Components, API Routes."
+        "Sistema de puntuación, quizizz interactivos, trabajo en grupo, ejercitaciones prácticas.",
+        "Motivando el aprendizaje y la autosuperación en fundamentos de programación.",
+        "Stack: Next.js, Supabase, TypeScript, Tailwind CSS."
       ],
       "isActive": true,
-      "github": "https://github.com/FabioDrizZt/omi-tronics",
-      "url": "http://omi-tronics.vercel.app/"
+      "github": "https://github.com/FabioDrizZt/aula-gamificada",
+      "url": "https://ranking-ayp-c2.vercel.app/"
     },
     {
       "name": "Sistema de Gestión Académica",
@@ -325,18 +341,18 @@
       "url": "https://gestion-academica.vercel.app/"
     },
     {
-      "name": "Aula Gamificada",
+      "name": "Omi-Tronics - Electronics Store",
       "startDate": "2025-01-01",
       "endDate": null,
-      "description": "Plataforma gamificada para la materia 'Algoritmos y Programación' con sistema de ranking y motivación estudiantil.",
+      "description": "Tienda online de tecnología con TV-box, consolas, mouses, teclados, auriculares y más.",
       "highlights": [
-        "Sistema de puntuación, quizizz interactivos, trabajo en grupo, ejercitaciones prácticas.",
-        "Motivando el aprendizaje y la autosuperación en fundamentos de programación.",
-        "Stack: Next.js, Supabase, TypeScript, Tailwind CSS."
+        "E-commerce completo con carrito de compras, gestión de productos, y sistema de pagos integrado.",
+        "Desarrollado con Next.js 14+ y Supabase como backend completo.",
+        "Tecnologías: Next.js, Supabase, TypeScript, Tailwind CSS, React Server Components, API Routes."
       ],
       "isActive": true,
-      "github": "https://github.com/FabioDrizZt/aula-gamificada",
-      "url": "https://ranking-ayp-c2.vercel.app/"
+      "github": "https://github.com/FabioDrizZt/omi-tronics",
+      "url": "http://omi-tronics.vercel.app/"
     },
     {
       "name": "Animal Preservation - LATAM",
@@ -353,44 +369,84 @@
       "isActive": true,
       "github": "https://github.com/No-Country/c15-57-ft-react-agregarback",
       "url": "https://preservacion-animal.vercel.app/"
-    },
-    {
-      "name": "Henry-Bank - E-Wallet Mobile App",
-      "startDate": "2021-01-01",
-      "endDate": "2021-12-31",
-      "description": "Aplicación móvil de billetera virtual.",
-      "highlights": [
-        "Desarrollé un backend escalable usando Node.js y arquitectura de microservicios.",
-        "Integré con APIs de terceros para procesamiento de pagos y autenticación de usuarios.",
-        "Construí un front-end móvil responsivo con React Native, asegurando compatibilidad multiplataforma.",
-        "Optimicé consultas de base de datos, reduciendo tiempos de carga en un 30%.",
-        "Implementé protocolos de transacción seguros y autenticación de usuarios basada en JWT.",
-        "Colaboré con un equipo de 4 desarrolladores usando metodologías ágiles."
-      ],
-      "isActive": false,
-      "github": "https://github.com/FabioDrizZt/Henry-Bank",
-      "url": "https://www.youtube.com/watch?v=t1KtkQB5uQ8"
     }
   ],
   "skills": [
     {
+      "name": "Docencia Universitaria",
+      "keywords": [
+        "Educación Superior",
+        "Didáctica",
+        "Pedagogía",
+        "Formación Profesional"
+      ],
+      "category": "Docencia e Innovación Educativa"
+    },
+    {
+      "name": "Diseño Curricular",
+      "keywords": [
+        "Planes de Estudio",
+        "Evaluación Competencial",
+        "Programas Académicos"
+      ],
+      "category": "Docencia e Innovación Educativa"
+    },
+    {
+      "name": "Tecnología Educativa & Gamificación",
+      "keywords": [
+        "EdTech",
+        "E-learning",
+        "Aula Gamificada",
+        "LMS"
+      ],
+      "category": "Docencia e Innovación Educativa"
+    },
+    {
+      "name": "IA Aplicada a la Educación",
+      "keywords": [
+        "ChatGPT",
+        "Copilot",
+        "Cursor AI",
+        "Docencia Digital"
+      ],
+      "category": "Docencia e Innovación Educativa"
+    },
+    {
       "name": "HTML",
-      "keywords": ["Web development", "Frontend", "Markup Language"],
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "Markup Language"
+      ],
       "category": "Desarrollo Frontend"
     },
     {
       "name": "CSS",
-      "keywords": ["Web development", "Frontend", "Design", "Styling"],
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "Design",
+        "Styling"
+      ],
       "category": "Desarrollo Frontend"
     },
     {
       "name": "Sass",
-      "keywords": ["Web development", "Frontend", "CSS Preprocessor"],
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "CSS Preprocessor"
+      ],
       "category": "Desarrollo Frontend"
     },
     {
       "name": "JavaScript",
-      "keywords": ["Web development", "Frontend", "Backend", "Fullstack"],
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ],
       "category": "Desarrollo Frontend"
     },
     {
@@ -405,7 +461,12 @@
     },
     {
       "name": "React",
-      "keywords": ["Web development", "Frontend", "JavaScript Library", "UI"],
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ],
       "category": "Desarrollo Frontend"
     },
     {
@@ -430,17 +491,31 @@
     },
     {
       "name": "Styled Components",
-      "keywords": ["Web development", "Frontend", "CSS-in-JS", "Design"],
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "CSS-in-JS",
+        "Design"
+      ],
       "category": "Desarrollo Frontend"
     },
     {
       "name": "Figma",
-      "keywords": ["Design", "Prototyping", "UI/UX"],
+      "keywords": [
+        "Design",
+        "Prototyping",
+        "UI/UX"
+      ],
       "category": "Desarrollo Frontend"
     },
     {
       "name": "Node",
-      "keywords": ["Web development", "Backend", "JavaScript", "Server"],
+      "keywords": [
+        "Web development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ],
       "category": "Desarrollo Backend"
     },
     {
@@ -455,7 +530,12 @@
     },
     {
       "name": "Sequelize",
-      "keywords": ["ORM", "SQL", "Database", "Node.js"],
+      "keywords": [
+        "ORM",
+        "SQL",
+        "Database",
+        "Node.js"
+      ],
       "category": "Desarrollo Backend"
     },
     {
@@ -470,12 +550,22 @@
     },
     {
       "name": "Laravel",
-      "keywords": ["Web development", "Backend", "PHP Framework", "MVC"],
+      "keywords": [
+        "Web development",
+        "Backend",
+        "PHP Framework",
+        "MVC"
+      ],
       "category": "Desarrollo Backend"
     },
     {
       "name": "Java",
-      "keywords": ["Backend", "OOP", "Enterprise Applications", "Spring"],
+      "keywords": [
+        "Backend",
+        "OOP",
+        "Enterprise Applications",
+        "Spring"
+      ],
       "category": "Desarrollo Backend"
     },
     {
@@ -490,22 +580,42 @@
     },
     {
       "name": "Hibernate",
-      "keywords": ["ORM", "Backend", "Java", "Database"],
+      "keywords": [
+        "ORM",
+        "Backend",
+        "Java",
+        "Database"
+      ],
       "category": "Desarrollo Backend"
     },
     {
       "name": "Postman",
-      "keywords": ["API", "Testing", "Backend", "Development"],
+      "keywords": [
+        "API",
+        "Testing",
+        "Backend",
+        "Development"
+      ],
       "category": "Desarrollo Backend"
     },
     {
       "name": "Python",
-      "keywords": ["Scripting", "Backend", "Machine Learning", "Automation"],
+      "keywords": [
+        "Scripting",
+        "Backend",
+        "Machine Learning",
+        "Automation"
+      ],
       "category": "Desarrollo Backend"
     },
     {
       "name": "Flask",
-      "keywords": ["Web development", "Backend", "Python Framework", "MVC"],
+      "keywords": [
+        "Web development",
+        "Backend",
+        "Python Framework",
+        "MVC"
+      ],
       "category": "Desarrollo Backend"
     },
     {
@@ -532,98 +642,187 @@
     },
     {
       "name": "MySQL",
-      "keywords": ["SQL", "Database", "Relational Database", "Backend"],
+      "keywords": [
+        "SQL",
+        "Database",
+        "Relational Database",
+        "Backend"
+      ],
       "category": "Bases de Datos"
     },
     {
       "name": "PostgreSQL",
-      "keywords": ["SQL", "Database", "Relational Database", "Backend"],
+      "keywords": [
+        "SQL",
+        "Database",
+        "Relational Database",
+        "Backend"
+      ],
       "category": "Bases de Datos"
     },
     {
       "name": "MongoDB",
-      "keywords": ["NoSQL", "Database", "Backend", "Web development"],
+      "keywords": [
+        "NoSQL",
+        "Database",
+        "Backend",
+        "Web development"
+      ],
       "category": "Bases de Datos"
     },
     {
       "name": "VSCode",
-      "keywords": ["IDE", "Development", "Extensions", "JavaScript"],
+      "keywords": [
+        "IDE",
+        "Development",
+        "Extensions",
+        "JavaScript"
+      ],
       "category": "Herramientas de Desarrollo"
     },
     {
       "name": "IntelliJ IDEA",
-      "keywords": ["IDE", "Java Development", "Fullstack"],
+      "keywords": [
+        "IDE",
+        "Java Development",
+        "Fullstack"
+      ],
       "category": "Herramientas de Desarrollo"
     },
     {
       "name": "Maven",
-      "keywords": ["Build Tool", "Java", "Dependency Management", "Backend"],
+      "keywords": [
+        "Build Tool",
+        "Java",
+        "Dependency Management",
+        "Backend"
+      ],
       "category": "Herramientas de Desarrollo"
     },
     {
       "name": "Vite",
-      "keywords": ["Frontend", "Build Tool", "JavaScript", "Fast Development"],
+      "keywords": [
+        "Frontend",
+        "Build Tool",
+        "JavaScript",
+        "Fast Development"
+      ],
       "category": "Herramientas de Desarrollo"
     },
     {
       "name": "Bun",
-      "keywords": ["JavaScript", "Runtime", "Server", "Node.js Alternative"],
+      "keywords": [
+        "JavaScript",
+        "Runtime",
+        "Server",
+        "Node.js Alternative"
+      ],
       "category": "Herramientas de Desarrollo"
     },
     {
       "name": "Markdown",
-      "keywords": ["Documentation", "Scripting", "Text Formatting"],
+      "keywords": [
+        "Documentation",
+        "Scripting",
+        "Text Formatting"
+      ],
       "category": "Herramientas de Desarrollo"
     },
     {
       "name": "Docker",
-      "keywords": ["DevOps", "Containers", "CI/CD", "Infrastructure"],
+      "keywords": [
+        "DevOps",
+        "Containers",
+        "CI/CD",
+        "Infrastructure"
+      ],
       "category": "DevOps e Infraestructura"
     },
     {
       "name": "Bash",
-      "keywords": ["Scripting", "Automation", "Command-line"],
+      "keywords": [
+        "Scripting",
+        "Automation",
+        "Command-line"
+      ],
       "category": "DevOps e Infraestructura"
     },
     {
       "name": "Netlify",
-      "keywords": ["Deployment", "CI/CD", "Web Hosting", "Frontend"],
+      "keywords": [
+        "Deployment",
+        "CI/CD",
+        "Web Hosting",
+        "Frontend"
+      ],
       "category": "DevOps e Infraestructura"
     },
     {
       "name": "Vercel",
-      "keywords": ["Deployment", "CI/CD", "Web Hosting", "Frontend"],
+      "keywords": [
+        "Deployment",
+        "CI/CD",
+        "Web Hosting",
+        "Frontend"
+      ],
       "category": "DevOps e Infraestructura"
     },
     {
       "name": "Git",
-      "keywords": ["Version control", "Collaboration", "Source code"],
+      "keywords": [
+        "Version control",
+        "Collaboration",
+        "Source code"
+      ],
       "category": "Control de Versiones"
     },
     {
       "name": "GitHub",
-      "keywords": ["Version control", "Collaboration", "Repository", "Git"],
+      "keywords": [
+        "Version control",
+        "Collaboration",
+        "Repository",
+        "Git"
+      ],
       "category": "Control de Versiones"
     },
     {
       "name": "GitLab",
-      "keywords": ["Version control", "CI/CD", "Repository"],
+      "keywords": [
+        "Version control",
+        "CI/CD",
+        "Repository"
+      ],
       "category": "Control de Versiones"
     },
     {
       "name": "Jest",
-      "keywords": ["Testing", "JavaScript", "Unit Testing", "Frontend"],
+      "keywords": [
+        "Testing",
+        "JavaScript",
+        "Unit Testing",
+        "Frontend"
+      ],
       "category": "Pruebas"
     },
     {
       "name": "Vitest",
-      "keywords": ["Testing", "JavaScript", "Unit Testing", "Frontend"],
+      "keywords": [
+        "Testing",
+        "JavaScript",
+        "Unit Testing",
+        "Frontend"
+      ],
       "category": "Pruebas"
     },
-
     {
       "name": "Go",
-      "keywords": ["Backend", "Microservices", "High Performance", "Golang"],
+      "keywords": [
+        "Backend",
+        "Microservices",
+        "High Performance",
+        "Golang"
+      ],
       "category": "Aprendiendo Actualmente"
     }
   ]
